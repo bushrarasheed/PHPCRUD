@@ -1,0 +1,2266 @@
+21/05/29 15:18:30 ** --- MESSAGE BEGIN ---
+21/05/29 15:18:30 ** To: irecyclerz123@gmail.com
+21/05/29 15:18:30 ** Subject: Simple Email Test via PHP
+21/05/29 15:18:30 ** From: bushirasheed2000@gmail.com
+21/05/29 15:18:30 ** 
+21/05/29 15:18:30 ** Hi, This is test email send by PHP Script
+21/05/29 15:18:30 ** --- MESSAGE END ---
+21/05/29 15:18:30 ** Connecting to smtp.gmail.com:587
+21/05/29 15:18:31 ** Connected.
+21/05/29 15:18:31 << 220 smtp.gmail.com ESMTP t14sm9790000wra.60 - gsmtp<EOL>
+21/05/29 15:18:31 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:18:31 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:18:31 ** Authenticating as bushirasheed2000@gmail.com
+21/05/29 15:18:31 >> STARTTLS<EOL>
+21/05/29 15:18:31 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 15:18:32 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:18:32 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:18:32 >> AUTH LOGIN<EOL>
+21/05/29 15:18:32 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 15:18:32 >> YnVzaGlyYXNoZWVkMjAwMEBnbWFpbC5jb20=<EOL>
+21/05/29 15:18:32 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 15:18:32 >> YnVza2Fyb283ODY=<EOL>
+21/05/29 15:18:32 << 235 2.7.0 Accepted<EOL>
+21/05/29 15:18:32 >> MAIL FROM: <bushirasheed2000@gmail.com><EOL>
+21/05/29 15:18:33 << 250 2.1.0 OK t14sm9790000wra.60 - gsmtp<EOL>
+21/05/29 15:18:33 >> RCPT TO: <irecyclerz123@gmail.com><EOL>
+21/05/29 15:18:33 << 250 2.1.5 OK t14sm9790000wra.60 - gsmtp<EOL>
+21/05/29 15:18:33 >> DATA<EOL>
+21/05/29 15:18:33 << 354  Go ahead t14sm9790000wra.60 - gsmtp<EOL>
+21/05/29 15:18:33 >> Date: Sat, 29 May 2021 15:18:33 +0500<EOL>
+21/05/29 15:18:33 >> To: irecyclerz123@gmail.com<EOL>
+21/05/29 15:18:33 >> Subject: Simple Email Test via PHP<EOL>
+21/05/29 15:18:33 >> From: bushirasheed2000@gmail.com<EOL>
+21/05/29 15:18:33 >> <EOL>
+21/05/29 15:18:33 >> Hi, This is test email send by PHP Script<EOL>
+21/05/29 15:18:33 >> .<EOL>
+21/05/29 15:18:33 << 250 2.0.0 OK  1622283514 t14sm9790000wra.60 - gsmtp<EOL>
+21/05/29 15:18:33 >> QUIT<EOL>
+21/05/29 15:18:33 << 221 2.0.0 closing connection t14sm9790000wra.60 - gsmtp<EOL>
+21/05/29 15:18:33 ** Disconnected.
+21/05/29 15:18:33 ** Disconnected.
+21/05/29 15:18:33 ** Disconnected.
+21/05/29 15:20:42 ** --- MESSAGE BEGIN ---
+21/05/29 15:20:42 ** To: irecyclerz123@gmail.com
+21/05/29 15:20:42 ** Subject: Simple Email Test via PHPshi
+21/05/29 15:20:42 ** From: bushirasheed2000@gmail.com
+21/05/29 15:20:42 ** 
+21/05/29 15:20:42 ** Hi, This is test email send by PHP Script
+21/05/29 15:20:42 ** --- MESSAGE END ---
+21/05/29 15:20:43 ** Connecting to smtp.gmail.com:587
+21/05/29 15:20:43 ** Connected.
+21/05/29 15:20:43 << 220 smtp.gmail.com ESMTP b188sm4807287wmh.18 - gsmtp<EOL>
+21/05/29 15:20:43 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:20:43 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:20:43 ** Authenticating as bushirasheed2000@gmail.com
+21/05/29 15:20:43 >> STARTTLS<EOL>
+21/05/29 15:20:44 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 15:20:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:20:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:20:44 >> AUTH LOGIN<EOL>
+21/05/29 15:20:44 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 15:20:44 >> YnVzaGlyYXNoZWVkMjAwMEBnbWFpbC5jb20=<EOL>
+21/05/29 15:20:44 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 15:20:44 >> YnVza2Fyb283ODY=<EOL>
+21/05/29 15:20:45 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials b188sm4807287wmh.18 - gsmtp<EOL>
+21/05/29 15:20:45 ** Disconnecting from smtp.gmail.com:587
+21/05/29 15:20:45 ** Disconnected.
+21/05/29 15:20:45 ** Disconnected.
+21/05/29 15:20:45 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials b188sm4807287wmh.18 - gsmtp<EOL>
+21/05/29 15:23:43 ** --- MESSAGE BEGIN ---
+21/05/29 15:23:43 ** To: irecyclerz123@gmail.com
+21/05/29 15:23:43 ** Subject: Simple Email Test via PHPshi
+21/05/29 15:23:43 ** From: rashbush01@gmail.com
+21/05/29 15:23:43 ** 
+21/05/29 15:23:43 ** Hi, This is test email send by PHP Script
+21/05/29 15:23:43 ** --- MESSAGE END ---
+21/05/29 15:23:44 ** Connecting to smtp.gmail.com:587
+21/05/29 15:23:44 ** Connected.
+21/05/29 15:23:44 << 220 smtp.gmail.com ESMTP z17sm11354504wrt.81 - gsmtp<EOL>
+21/05/29 15:23:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:23:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:23:44 ** Authenticating as rashbush01@gmail.com
+21/05/29 15:23:44 >> STARTTLS<EOL>
+21/05/29 15:23:45 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 15:23:45 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:23:45 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:23:45 >> AUTH LOGIN<EOL>
+21/05/29 15:23:45 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 15:23:45 >> cmFzaGJ1c2gwMUBnbWFpbC5jb20=<EOL>
+21/05/29 15:23:46 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 15:23:46 >> YnVzaGJhbm8wMQ==<EOL>
+21/05/29 15:23:46 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials z17sm11354504wrt.81 - gsmtp<EOL>
+21/05/29 15:23:46 ** Disconnecting from smtp.gmail.com:587
+21/05/29 15:23:46 ** Disconnected.
+21/05/29 15:23:46 ** Disconnected.
+21/05/29 15:23:46 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials z17sm11354504wrt.81 - gsmtp<EOL>
+21/05/29 15:24:30 ** --- MESSAGE BEGIN ---
+21/05/29 15:24:30 ** To: irecyclerz123@gmail.com
+21/05/29 15:24:30 ** Subject: Simple Email Test via PHPshi
+21/05/29 15:24:30 ** From: rashbush01@gmail.com
+21/05/29 15:24:30 ** 
+21/05/29 15:24:30 ** Hi, This is test email send by PHP Script
+21/05/29 15:24:30 ** --- MESSAGE END ---
+21/05/29 15:24:30 ** Connecting to smtp.gmail.com:587
+21/05/29 15:24:31 ** Connected.
+21/05/29 15:24:31 << 220 smtp.gmail.com ESMTP o11sm10202876wrq.93 - gsmtp<EOL>
+21/05/29 15:24:31 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:24:31 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:24:31 ** Authenticating as rashbush01@gmail.com
+21/05/29 15:24:31 >> STARTTLS<EOL>
+21/05/29 15:24:31 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 15:24:31 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 15:24:31 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 15:24:31 >> AUTH LOGIN<EOL>
+21/05/29 15:24:32 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 15:24:32 >> cmFzaGJ1c2gwMUBnbWFpbC5jb20=<EOL>
+21/05/29 15:24:32 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 15:24:32 >> YnVzaGJhbm8wMQ==<EOL>
+21/05/29 15:24:32 << 235 2.7.0 Accepted<EOL>
+21/05/29 15:24:32 >> MAIL FROM: <rashbush01@gmail.com><EOL>
+21/05/29 15:24:32 << 250 2.1.0 OK o11sm10202876wrq.93 - gsmtp<EOL>
+21/05/29 15:24:32 >> RCPT TO: <irecyclerz123@gmail.com><EOL>
+21/05/29 15:24:32 << 250 2.1.5 OK o11sm10202876wrq.93 - gsmtp<EOL>
+21/05/29 15:24:32 >> DATA<EOL>
+21/05/29 15:24:33 << 354  Go ahead o11sm10202876wrq.93 - gsmtp<EOL>
+21/05/29 15:24:33 >> Date: Sat, 29 May 2021 15:24:33 +0500<EOL>
+21/05/29 15:24:33 >> To: irecyclerz123@gmail.com<EOL>
+21/05/29 15:24:33 >> Subject: Simple Email Test via PHPshi<EOL>
+21/05/29 15:24:33 >> From: rashbush01@gmail.com<EOL>
+21/05/29 15:24:33 >> <EOL>
+21/05/29 15:24:33 >> Hi, This is test email send by PHP Script<EOL>
+21/05/29 15:24:33 >> .<EOL>
+21/05/29 15:24:33 << 250 2.0.0 OK  1622283874 o11sm10202876wrq.93 - gsmtp<EOL>
+21/05/29 15:24:33 >> QUIT<EOL>
+21/05/29 15:24:33 << 221 2.0.0 closing connection o11sm10202876wrq.93 - gsmtp<EOL>
+21/05/29 15:24:33 ** Disconnected.
+21/05/29 15:24:33 ** Disconnected.
+21/05/29 15:24:33 ** Disconnected.
+21/05/29 19:10:27 ** --- MESSAGE BEGIN ---
+21/05/29 19:10:27 ** To: rashbush01@gmail.com
+21/05/29 19:10:27 ** Subject: Email Activation
+21/05/29 19:10:27 ** From: irecyclerz123@gmail.com
+21/05/29 19:10:27 ** 
+21/05/29 19:10:27 ** Hi, Bush. Click here to activate your account http://localhost/phpcrud/registration.php?token=2fc56d23048787423daeb15700db65 
+21/05/29 19:10:27 ** --- MESSAGE END ---
+21/05/29 19:10:27 ** Connecting to smtp.gmail.com:587
+21/05/29 19:10:28 ** Connected.
+21/05/29 19:10:28 << 220 smtp.gmail.com ESMTP s2sm15495968wmc.21 - gsmtp<EOL>
+21/05/29 19:10:28 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 19:10:28 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 19:10:28 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 19:10:28 >> STARTTLS<EOL>
+21/05/29 19:10:28 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 19:10:28 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 19:10:29 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 19:10:29 >> AUTH LOGIN<EOL>
+21/05/29 19:10:29 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 19:10:29 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 19:10:29 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 19:10:29 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 19:10:29 << 235 2.7.0 Accepted<EOL>
+21/05/29 19:10:29 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 19:10:29 << 250 2.1.0 OK s2sm15495968wmc.21 - gsmtp<EOL>
+21/05/29 19:10:29 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 19:10:29 << 250 2.1.5 OK s2sm15495968wmc.21 - gsmtp<EOL>
+21/05/29 19:10:29 >> DATA<EOL>
+21/05/29 19:10:30 << 354  Go ahead s2sm15495968wmc.21 - gsmtp<EOL>
+21/05/29 19:10:30 >> Date: Sat, 29 May 2021 19:10:30 +0500<EOL>
+21/05/29 19:10:30 >> To: rashbush01@gmail.com<EOL>
+21/05/29 19:10:30 >> Subject: Email Activation<EOL>
+21/05/29 19:10:30 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 19:10:30 >> <EOL>
+21/05/29 19:10:30 >> Hi, Bush. Click here to activate your account http://localhost/phpcrud/registration.php?token=2fc56d23048787423daeb15700db65 <EOL>
+21/05/29 19:10:30 >> .<EOL>
+21/05/29 19:10:31 << 250 2.0.0 OK  1622297431 s2sm15495968wmc.21 - gsmtp<EOL>
+21/05/29 19:10:31 >> QUIT<EOL>
+21/05/29 19:10:31 << 221 2.0.0 closing connection s2sm15495968wmc.21 - gsmtp<EOL>
+21/05/29 19:10:31 ** Disconnecting from smtp.gmail.com:587
+21/05/29 19:10:31 ** Disconnected.
+21/05/29 19:10:31 ** Disconnected.
+21/05/29 19:14:43 ** --- MESSAGE BEGIN ---
+21/05/29 19:14:43 ** To: rashbush01@gmail.com
+21/05/29 19:14:43 ** Subject: Email Activation
+21/05/29 19:14:43 ** From: irecyclerz123@gmail.com
+21/05/29 19:14:43 ** 
+21/05/29 19:14:43 ** Hi, xz. Click here to activate your account http://localhost/phpcrud/registration.php?token=abbd3cc58d373fdc0ff9baeb20e57f 
+21/05/29 19:14:43 ** --- MESSAGE END ---
+21/05/29 19:14:43 ** Connecting to smtp.gmail.com:587
+21/05/29 19:14:44 ** Connected.
+21/05/29 19:14:44 << 220 smtp.gmail.com ESMTP z17sm12075097wrt.81 - gsmtp<EOL>
+21/05/29 19:14:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 19:14:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 19:14:44 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 19:14:44 >> STARTTLS<EOL>
+21/05/29 19:14:44 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 19:14:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 19:14:45 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 19:14:45 >> AUTH LOGIN<EOL>
+21/05/29 19:14:45 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 19:14:45 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 19:14:45 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 19:14:45 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 19:14:45 << 235 2.7.0 Accepted<EOL>
+21/05/29 19:14:45 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 19:14:45 << 250 2.1.0 OK z17sm12075097wrt.81 - gsmtp<EOL>
+21/05/29 19:14:45 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 19:14:45 << 250 2.1.5 OK z17sm12075097wrt.81 - gsmtp<EOL>
+21/05/29 19:14:45 >> DATA<EOL>
+21/05/29 19:14:46 << 354  Go ahead z17sm12075097wrt.81 - gsmtp<EOL>
+21/05/29 19:14:46 >> Date: Sat, 29 May 2021 19:14:46 +0500<EOL>
+21/05/29 19:14:46 >> To: rashbush01@gmail.com<EOL>
+21/05/29 19:14:46 >> Subject: Email Activation<EOL>
+21/05/29 19:14:46 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 19:14:46 >> <EOL>
+21/05/29 19:14:46 >> Hi, xz. Click here to activate your account http://localhost/phpcrud/registration.php?token=abbd3cc58d373fdc0ff9baeb20e57f <EOL>
+21/05/29 19:14:46 >> .<EOL>
+21/05/29 19:14:46 << 250 2.0.0 OK  1622297686 z17sm12075097wrt.81 - gsmtp<EOL>
+21/05/29 19:14:46 >> QUIT<EOL>
+21/05/29 19:14:46 << 221 2.0.0 closing connection z17sm12075097wrt.81 - gsmtp<EOL>
+21/05/29 19:14:46 ** Disconnecting from smtp.gmail.com:587
+21/05/29 19:14:46 ** Disconnected.
+21/05/29 19:14:46 ** Disconnected.
+21/05/29 19:17:04 ** --- MESSAGE BEGIN ---
+21/05/29 19:17:04 ** To: rashbush01@gmail.com
+21/05/29 19:17:04 ** Subject: Email Activation
+21/05/29 19:17:04 ** From: irecyclerz123@gmail.com
+21/05/29 19:17:04 ** 
+21/05/29 19:17:04 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=434338a5156f3b3fa4bfa50caa6e87 
+21/05/29 19:17:04 ** --- MESSAGE END ---
+21/05/29 19:17:04 ** Connecting to smtp.gmail.com:587
+21/05/29 19:17:05 ** Connected.
+21/05/29 19:17:05 << 220 smtp.gmail.com ESMTP 32sm5637904wrs.5 - gsmtp<EOL>
+21/05/29 19:17:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 19:17:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 19:17:05 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 19:17:05 >> STARTTLS<EOL>
+21/05/29 19:17:05 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 19:17:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 19:17:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 19:17:05 >> AUTH LOGIN<EOL>
+21/05/29 19:17:06 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 19:17:06 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 19:17:06 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 19:17:06 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 19:17:06 << 235 2.7.0 Accepted<EOL>
+21/05/29 19:17:06 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 19:17:06 << 250 2.1.0 OK 32sm5637904wrs.5 - gsmtp<EOL>
+21/05/29 19:17:06 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 19:17:06 << 250 2.1.5 OK 32sm5637904wrs.5 - gsmtp<EOL>
+21/05/29 19:17:06 >> DATA<EOL>
+21/05/29 19:17:07 << 354  Go ahead 32sm5637904wrs.5 - gsmtp<EOL>
+21/05/29 19:17:07 >> Date: Sat, 29 May 2021 19:17:07 +0500<EOL>
+21/05/29 19:17:07 >> To: rashbush01@gmail.com<EOL>
+21/05/29 19:17:07 >> Subject: Email Activation<EOL>
+21/05/29 19:17:07 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 19:17:07 >> <EOL>
+21/05/29 19:17:07 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=434338a5156f3b3fa4bfa50caa6e87 <EOL>
+21/05/29 19:17:07 >> .<EOL>
+21/05/29 19:17:07 << 250 2.0.0 OK  1622297827 32sm5637904wrs.5 - gsmtp<EOL>
+21/05/29 19:17:07 >> QUIT<EOL>
+21/05/29 19:17:07 << 221 2.0.0 closing connection 32sm5637904wrs.5 - gsmtp<EOL>
+21/05/29 19:17:07 ** Disconnecting from smtp.gmail.com:587
+21/05/29 19:17:07 ** Disconnected.
+21/05/29 19:17:07 ** Disconnected.
+21/05/29 20:00:32 ** --- MESSAGE BEGIN ---
+21/05/29 20:00:32 ** To: rashbush01@gmail.com
+21/05/29 20:00:32 ** Subject: Email Activation
+21/05/29 20:00:32 ** From: irecyclerz123@gmail.com
+21/05/29 20:00:32 ** 
+21/05/29 20:00:32 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=338ec129154401e00aef2dad9c68c4 
+21/05/29 20:00:32 ** --- MESSAGE END ---
+21/05/29 20:00:32 ** Connecting to smtp.gmail.com:587
+21/05/29 20:00:33 ** Connected.
+21/05/29 20:00:33 << 220 smtp.gmail.com ESMTP 92sm8791578wrp.88 - gsmtp<EOL>
+21/05/29 20:00:33 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:00:33 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:00:33 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 20:00:33 >> STARTTLS<EOL>
+21/05/29 20:00:33 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 20:00:33 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:00:33 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:00:33 >> AUTH LOGIN<EOL>
+21/05/29 20:00:34 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 20:00:34 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 20:00:34 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 20:00:34 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 20:00:34 << 235 2.7.0 Accepted<EOL>
+21/05/29 20:00:34 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 20:00:34 << 250 2.1.0 OK 92sm8791578wrp.88 - gsmtp<EOL>
+21/05/29 20:00:34 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 20:00:34 << 250 2.1.5 OK 92sm8791578wrp.88 - gsmtp<EOL>
+21/05/29 20:00:34 >> DATA<EOL>
+21/05/29 20:00:35 << 354  Go ahead 92sm8791578wrp.88 - gsmtp<EOL>
+21/05/29 20:00:35 >> Date: Sat, 29 May 2021 20:00:35 +0500<EOL>
+21/05/29 20:00:35 >> To: rashbush01@gmail.com<EOL>
+21/05/29 20:00:35 >> Subject: Email Activation<EOL>
+21/05/29 20:00:35 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 20:00:35 >> <EOL>
+21/05/29 20:00:35 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=338ec129154401e00aef2dad9c68c4 <EOL>
+21/05/29 20:00:35 >> .<EOL>
+21/05/29 20:00:35 << 250 2.0.0 OK  1622300436 92sm8791578wrp.88 - gsmtp<EOL>
+21/05/29 20:00:35 >> QUIT<EOL>
+21/05/29 20:00:36 << 221 2.0.0 closing connection 92sm8791578wrp.88 - gsmtp<EOL>
+21/05/29 20:00:36 ** Disconnecting from smtp.gmail.com:587
+21/05/29 20:00:36 ** Disconnected.
+21/05/29 20:00:36 ** Disconnected.
+21/05/29 20:03:48 ** --- MESSAGE BEGIN ---
+21/05/29 20:03:48 ** To: rashbush01@gmail.com
+21/05/29 20:03:48 ** Subject: Email Activation
+21/05/29 20:03:48 ** From: irecyclerz123@gmail.com
+21/05/29 20:03:48 ** 
+21/05/29 20:03:48 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=a1fa841e74ce1343fd0410de3c38f9 
+21/05/29 20:03:48 ** --- MESSAGE END ---
+21/05/29 20:03:48 ** Connecting to smtp.gmail.com:587
+21/05/29 20:03:49 ** Connected.
+21/05/29 20:03:49 << 220 smtp.gmail.com ESMTP s2sm4356065wrf.91 - gsmtp<EOL>
+21/05/29 20:03:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:03:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:03:49 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 20:03:49 >> STARTTLS<EOL>
+21/05/29 20:03:49 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 20:03:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:03:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:03:49 >> AUTH LOGIN<EOL>
+21/05/29 20:03:49 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 20:03:49 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 20:03:49 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 20:03:50 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 20:03:50 << 235 2.7.0 Accepted<EOL>
+21/05/29 20:03:50 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 20:03:50 << 250 2.1.0 OK s2sm4356065wrf.91 - gsmtp<EOL>
+21/05/29 20:03:50 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 20:03:50 << 250 2.1.5 OK s2sm4356065wrf.91 - gsmtp<EOL>
+21/05/29 20:03:50 >> DATA<EOL>
+21/05/29 20:03:50 << 354  Go ahead s2sm4356065wrf.91 - gsmtp<EOL>
+21/05/29 20:03:50 >> Date: Sat, 29 May 2021 20:03:50 +0500<EOL>
+21/05/29 20:03:50 >> To: rashbush01@gmail.com<EOL>
+21/05/29 20:03:50 >> Subject: Email Activation<EOL>
+21/05/29 20:03:50 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 20:03:50 >> <EOL>
+21/05/29 20:03:50 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=a1fa841e74ce1343fd0410de3c38f9 <EOL>
+21/05/29 20:03:50 >> .<EOL>
+21/05/29 20:03:51 << 250 2.0.0 OK  1622300631 s2sm4356065wrf.91 - gsmtp<EOL>
+21/05/29 20:03:51 >> QUIT<EOL>
+21/05/29 20:03:51 << 221 2.0.0 closing connection s2sm4356065wrf.91 - gsmtp<EOL>
+21/05/29 20:03:51 ** Disconnecting from smtp.gmail.com:587
+21/05/29 20:03:51 ** Disconnected.
+21/05/29 20:03:51 ** Disconnected.
+21/05/29 20:05:05 ** --- MESSAGE BEGIN ---
+21/05/29 20:05:05 ** To: rashbush01@gmail.com
+21/05/29 20:05:05 ** Subject: Email Activation
+21/05/29 20:05:05 ** From: irecyclerz123@gmail.com
+21/05/29 20:05:05 ** 
+21/05/29 20:05:05 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=524c99068827fa067d16017787f31a 
+21/05/29 20:05:05 ** --- MESSAGE END ---
+21/05/29 20:05:05 ** Connecting to smtp.gmail.com:587
+21/05/29 20:05:05 ** Connected.
+21/05/29 20:05:05 << 220 smtp.gmail.com ESMTP a11sm10793718wrr.48 - gsmtp<EOL>
+21/05/29 20:05:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:05:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:05:05 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 20:05:05 >> STARTTLS<EOL>
+21/05/29 20:05:05 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 20:05:06 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:05:06 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:05:06 >> AUTH LOGIN<EOL>
+21/05/29 20:05:06 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 20:05:06 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 20:05:06 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 20:05:06 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 20:05:06 << 235 2.7.0 Accepted<EOL>
+21/05/29 20:05:06 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 20:05:07 << 250 2.1.0 OK a11sm10793718wrr.48 - gsmtp<EOL>
+21/05/29 20:05:07 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 20:05:07 << 250 2.1.5 OK a11sm10793718wrr.48 - gsmtp<EOL>
+21/05/29 20:05:07 >> DATA<EOL>
+21/05/29 20:05:07 << 354  Go ahead a11sm10793718wrr.48 - gsmtp<EOL>
+21/05/29 20:05:07 >> Date: Sat, 29 May 2021 20:05:07 +0500<EOL>
+21/05/29 20:05:07 >> To: rashbush01@gmail.com<EOL>
+21/05/29 20:05:07 >> Subject: Email Activation<EOL>
+21/05/29 20:05:07 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 20:05:07 >> <EOL>
+21/05/29 20:05:07 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=524c99068827fa067d16017787f31a <EOL>
+21/05/29 20:05:07 >> .<EOL>
+21/05/29 20:05:08 << 250 2.0.0 OK  1622300708 a11sm10793718wrr.48 - gsmtp<EOL>
+21/05/29 20:05:08 >> QUIT<EOL>
+21/05/29 20:05:08 << 221 2.0.0 closing connection a11sm10793718wrr.48 - gsmtp<EOL>
+21/05/29 20:05:08 ** Disconnected.
+21/05/29 20:05:08 ** Disconnected.
+21/05/29 20:05:08 ** Disconnected.
+21/05/29 20:40:34 ** --- MESSAGE BEGIN ---
+21/05/29 20:40:34 ** To: rashbush01@gmail.com
+21/05/29 20:40:34 ** Subject: Email Activation
+21/05/29 20:40:34 ** From: irecyclerz123@gmail.com
+21/05/29 20:40:34 ** 
+21/05/29 20:40:34 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=fd8d095eef511ad43bcce4fb46598d 
+21/05/29 20:40:34 ** --- MESSAGE END ---
+21/05/29 20:40:34 ** Connecting to smtp.gmail.com:587
+21/05/29 20:40:35 ** Connected.
+21/05/29 20:40:35 << 220 smtp.gmail.com ESMTP v10sm9659583wre.33 - gsmtp<EOL>
+21/05/29 20:40:35 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:40:35 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:40:35 ** Authenticating as irecyclerz123@gmail.com
+21/05/29 20:40:35 >> STARTTLS<EOL>
+21/05/29 20:40:35 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/29 20:40:35 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/29 20:40:36 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/29 20:40:36 >> AUTH LOGIN<EOL>
+21/05/29 20:40:36 << 334 VXNlcm5hbWU6<EOL>
+21/05/29 20:40:36 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/29 20:40:36 << 334 UGFzc3dvcmQ6<EOL>
+21/05/29 20:40:36 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/29 20:40:36 << 235 2.7.0 Accepted<EOL>
+21/05/29 20:40:36 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/29 20:40:36 << 250 2.1.0 OK v10sm9659583wre.33 - gsmtp<EOL>
+21/05/29 20:40:36 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/29 20:40:36 << 250 2.1.5 OK v10sm9659583wre.33 - gsmtp<EOL>
+21/05/29 20:40:36 >> DATA<EOL>
+21/05/29 20:40:37 << 354  Go ahead v10sm9659583wre.33 - gsmtp<EOL>
+21/05/29 20:40:37 >> Date: Sat, 29 May 2021 20:40:37 +0500<EOL>
+21/05/29 20:40:37 >> To: rashbush01@gmail.com<EOL>
+21/05/29 20:40:37 >> Subject: Email Activation<EOL>
+21/05/29 20:40:37 >> From: irecyclerz123@gmail.com<EOL>
+21/05/29 20:40:37 >> <EOL>
+21/05/29 20:40:37 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=fd8d095eef511ad43bcce4fb46598d <EOL>
+21/05/29 20:40:37 >> .<EOL>
+21/05/29 20:40:37 << 250 2.0.0 OK  1622302838 v10sm9659583wre.33 - gsmtp<EOL>
+21/05/29 20:40:37 >> QUIT<EOL>
+21/05/29 20:40:37 << 221 2.0.0 closing connection v10sm9659583wre.33 - gsmtp<EOL>
+21/05/29 20:40:37 ** Disconnecting from smtp.gmail.com:587
+21/05/29 20:40:37 ** Disconnected.
+21/05/29 20:40:37 ** Disconnected.
+21/05/30 00:21:57 ** --- MESSAGE BEGIN ---
+21/05/30 00:21:57 ** To: rashbush01@gmail.com
+21/05/30 00:21:57 ** Subject: Email Activation
+21/05/30 00:21:57 ** From: irecyclerz123@gmail.com
+21/05/30 00:21:57 ** 
+21/05/30 00:21:57 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=25f3b0004d80533da395ed7a0e34ae  
+21/05/30 00:21:57 ** --- MESSAGE END ---
+21/05/30 00:21:57 ** Connecting to smtp.gmail.com:587
+21/05/30 00:21:57 ** Connected.
+21/05/30 00:21:57 << 220 smtp.gmail.com ESMTP t14sm11162079wra.60 - gsmtp<EOL>
+21/05/30 00:21:57 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 00:21:57 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 00:21:57 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 00:21:57 >> STARTTLS<EOL>
+21/05/30 00:21:58 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 00:21:58 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 00:21:58 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 00:21:58 >> AUTH LOGIN<EOL>
+21/05/30 00:21:58 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 00:21:58 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 00:21:58 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 00:21:58 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 00:21:59 << 235 2.7.0 Accepted<EOL>
+21/05/30 00:21:59 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 00:21:59 << 250 2.1.0 OK t14sm11162079wra.60 - gsmtp<EOL>
+21/05/30 00:21:59 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 00:21:59 << 250 2.1.5 OK t14sm11162079wra.60 - gsmtp<EOL>
+21/05/30 00:21:59 >> DATA<EOL>
+21/05/30 00:22:00 << 354  Go ahead t14sm11162079wra.60 - gsmtp<EOL>
+21/05/30 00:22:00 >> Date: Sun, 30 May 2021 00:22:00 +0500<EOL>
+21/05/30 00:22:00 >> To: rashbush01@gmail.com<EOL>
+21/05/30 00:22:00 >> Subject: Email Activation<EOL>
+21/05/30 00:22:00 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 00:22:00 >> <EOL>
+21/05/30 00:22:00 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=25f3b0004d80533da395ed7a0e34ae  <EOL>
+21/05/30 00:22:00 >> .<EOL>
+21/05/30 00:22:00 << 250 2.0.0 OK  1622316120 t14sm11162079wra.60 - gsmtp<EOL>
+21/05/30 00:22:00 >> QUIT<EOL>
+21/05/30 00:22:00 << 221 2.0.0 closing connection t14sm11162079wra.60 - gsmtp<EOL>
+21/05/30 00:22:00 ** Disconnecting from smtp.gmail.com:587
+21/05/30 00:22:00 ** Disconnected.
+21/05/30 00:22:00 ** Disconnected.
+21/05/30 00:37:34 ** --- MESSAGE BEGIN ---
+21/05/30 00:37:34 ** To: rashbush01@gmail.com
+21/05/30 00:37:34 ** Subject: Email Activation
+21/05/30 00:37:34 ** From: irecyclerz123@gmail.com
+21/05/30 00:37:34 ** 
+21/05/30 00:37:34 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=33c8133f480170a070826445161cf5  
+21/05/30 00:37:34 ** --- MESSAGE END ---
+21/05/30 00:37:34 ** Connecting to smtp.gmail.com:587
+21/05/30 00:37:35 ** Connected.
+21/05/30 00:37:35 << 220 smtp.gmail.com ESMTP v18sm13442564wro.18 - gsmtp<EOL>
+21/05/30 00:37:35 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 00:37:35 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 00:37:35 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 00:37:35 >> STARTTLS<EOL>
+21/05/30 00:37:35 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 00:37:35 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 00:37:35 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 00:37:35 >> AUTH LOGIN<EOL>
+21/05/30 00:37:36 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 00:37:36 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 00:37:36 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 00:37:36 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 00:37:36 << 235 2.7.0 Accepted<EOL>
+21/05/30 00:37:36 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 00:37:36 << 250 2.1.0 OK v18sm13442564wro.18 - gsmtp<EOL>
+21/05/30 00:37:36 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 00:37:36 << 250 2.1.5 OK v18sm13442564wro.18 - gsmtp<EOL>
+21/05/30 00:37:36 >> DATA<EOL>
+21/05/30 00:37:37 << 354  Go ahead v18sm13442564wro.18 - gsmtp<EOL>
+21/05/30 00:37:37 >> Date: Sun, 30 May 2021 00:37:37 +0500<EOL>
+21/05/30 00:37:37 >> To: rashbush01@gmail.com<EOL>
+21/05/30 00:37:37 >> Subject: Email Activation<EOL>
+21/05/30 00:37:37 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 00:37:37 >> <EOL>
+21/05/30 00:37:37 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=33c8133f480170a070826445161cf5  <EOL>
+21/05/30 00:37:37 >> .<EOL>
+21/05/30 00:37:38 << 250 2.0.0 OK  1622317058 v18sm13442564wro.18 - gsmtp<EOL>
+21/05/30 00:37:38 >> QUIT<EOL>
+21/05/30 00:37:38 << 221 2.0.0 closing connection v18sm13442564wro.18 - gsmtp<EOL>
+21/05/30 00:37:38 ** Disconnecting from smtp.gmail.com:587
+21/05/30 00:37:38 ** Disconnected.
+21/05/30 00:37:38 ** Disconnected.
+21/05/30 00:53:43 ** --- MESSAGE BEGIN ---
+21/05/30 00:53:43 ** To: rashbush01@gmail.com
+21/05/30 00:53:43 ** Subject: Email Activation
+21/05/30 00:53:43 ** From: irecyclerz123@gmail.com
+21/05/30 00:53:43 ** 
+21/05/30 00:53:43 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=b2da9728df30198d9495db071ba276  
+21/05/30 00:53:43 ** --- MESSAGE END ---
+21/05/30 00:53:43 ** Connecting to smtp.gmail.com:587
+21/05/30 00:53:43 ** Connected.
+21/05/30 00:53:43 << 220 smtp.gmail.com ESMTP 89sm6611085wri.94 - gsmtp<EOL>
+21/05/30 00:53:43 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 00:53:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 00:53:44 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 00:53:44 >> STARTTLS<EOL>
+21/05/30 00:53:44 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 00:53:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 00:53:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 00:53:44 >> AUTH LOGIN<EOL>
+21/05/30 00:53:44 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 00:53:44 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 00:53:44 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 00:53:44 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 00:53:45 << 235 2.7.0 Accepted<EOL>
+21/05/30 00:53:45 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 00:53:45 << 250 2.1.0 OK 89sm6611085wri.94 - gsmtp<EOL>
+21/05/30 00:53:45 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 00:53:45 << 250 2.1.5 OK 89sm6611085wri.94 - gsmtp<EOL>
+21/05/30 00:53:45 >> DATA<EOL>
+21/05/30 00:53:45 << 354  Go ahead 89sm6611085wri.94 - gsmtp<EOL>
+21/05/30 00:53:45 >> Date: Sun, 30 May 2021 00:53:45 +0500<EOL>
+21/05/30 00:53:45 >> To: rashbush01@gmail.com<EOL>
+21/05/30 00:53:45 >> Subject: Email Activation<EOL>
+21/05/30 00:53:45 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 00:53:45 >> <EOL>
+21/05/30 00:53:45 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=b2da9728df30198d9495db071ba276  <EOL>
+21/05/30 00:53:45 >> .<EOL>
+21/05/30 00:53:46 << 250 2.0.0 OK  1622318026 89sm6611085wri.94 - gsmtp<EOL>
+21/05/30 00:53:46 >> QUIT<EOL>
+21/05/30 00:53:46 << 221 2.0.0 closing connection 89sm6611085wri.94 - gsmtp<EOL>
+21/05/30 00:53:46 ** Disconnecting from smtp.gmail.com:587
+21/05/30 00:53:46 ** Disconnected.
+21/05/30 00:53:46 ** Disconnected.
+21/05/30 01:02:31 ** --- MESSAGE BEGIN ---
+21/05/30 01:02:31 ** To: rashbush01@gmail.com
+21/05/30 01:02:31 ** Subject: Email Activation
+21/05/30 01:02:31 ** From: irecyclerz123@gmail.com
+21/05/30 01:02:31 ** 
+21/05/30 01:02:31 ** Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=b03f9d2b4b6c16503c96ccd76d0576  
+21/05/30 01:02:31 ** --- MESSAGE END ---
+21/05/30 01:02:31 ** Connecting to smtp.gmail.com:587
+21/05/30 01:02:31 ** Connected.
+21/05/30 01:02:31 << 220 smtp.gmail.com ESMTP n7sm11173648wrx.7 - gsmtp<EOL>
+21/05/30 01:02:31 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:02:31 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:02:31 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:02:31 >> STARTTLS<EOL>
+21/05/30 01:02:32 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:02:32 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:02:32 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:02:32 >> AUTH LOGIN<EOL>
+21/05/30 01:02:32 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:02:32 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:02:32 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:02:32 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:02:32 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:02:32 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:02:33 << 250 2.1.0 OK n7sm11173648wrx.7 - gsmtp<EOL>
+21/05/30 01:02:33 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:02:33 << 250 2.1.5 OK n7sm11173648wrx.7 - gsmtp<EOL>
+21/05/30 01:02:33 >> DATA<EOL>
+21/05/30 01:02:33 << 354  Go ahead n7sm11173648wrx.7 - gsmtp<EOL>
+21/05/30 01:02:33 >> Date: Sun, 30 May 2021 01:02:33 +0500<EOL>
+21/05/30 01:02:33 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:02:33 >> Subject: Email Activation<EOL>
+21/05/30 01:02:33 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:02:33 >> <EOL>
+21/05/30 01:02:33 >> Hi, Bushra. Click here to activate your account http://localhost/phpcrud/registration.php?token=b03f9d2b4b6c16503c96ccd76d0576  <EOL>
+21/05/30 01:02:33 >> .<EOL>
+21/05/30 01:02:34 << 250 2.0.0 OK  1622318554 n7sm11173648wrx.7 - gsmtp<EOL>
+21/05/30 01:02:34 >> QUIT<EOL>
+21/05/30 01:02:34 << 221 2.0.0 closing connection n7sm11173648wrx.7 - gsmtp<EOL>
+21/05/30 01:02:34 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:02:34 ** Disconnected.
+21/05/30 01:02:34 ** Disconnected.
+21/05/30 01:03:44 ** --- MESSAGE BEGIN ---
+21/05/30 01:03:44 ** To: rashbush01@gmail.com
+21/05/30 01:03:44 ** Subject: Email Activation
+21/05/30 01:03:44 ** From: irecyclerz123@gmail.com
+21/05/30 01:03:44 ** 
+21/05/30 01:03:44 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:03:44 **                         http://localhost/phpcrud/registration.php?token=09345ba534179a6c4b3626c8cb5dd0  
+21/05/30 01:03:44 ** --- MESSAGE END ---
+21/05/30 01:03:44 ** Connecting to smtp.gmail.com:587
+21/05/30 01:03:45 ** Connected.
+21/05/30 01:03:45 << 220 smtp.gmail.com ESMTP 89sm5059535wrq.14 - gsmtp<EOL>
+21/05/30 01:03:45 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:03:45 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:03:45 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:03:45 >> STARTTLS<EOL>
+21/05/30 01:03:45 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:03:45 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:03:45 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:03:45 >> AUTH LOGIN<EOL>
+21/05/30 01:03:45 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:03:45 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:03:46 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:03:46 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:03:46 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:03:46 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:03:46 << 250 2.1.0 OK 89sm5059535wrq.14 - gsmtp<EOL>
+21/05/30 01:03:46 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:03:46 << 250 2.1.5 OK 89sm5059535wrq.14 - gsmtp<EOL>
+21/05/30 01:03:46 >> DATA<EOL>
+21/05/30 01:03:46 << 354  Go ahead 89sm5059535wrq.14 - gsmtp<EOL>
+21/05/30 01:03:46 >> Date: Sun, 30 May 2021 01:03:46 +0500<EOL>
+21/05/30 01:03:46 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:03:46 >> Subject: Email Activation<EOL>
+21/05/30 01:03:46 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:03:46 >> <EOL>
+21/05/30 01:03:46 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:03:46 >>                         http://localhost/phpcrud/registration.php?token=09345ba534179a6c4b3626c8cb5dd0  <EOL>
+21/05/30 01:03:46 >> .<EOL>
+21/05/30 01:03:47 << 250 2.0.0 OK  1622318627 89sm5059535wrq.14 - gsmtp<EOL>
+21/05/30 01:03:47 >> QUIT<EOL>
+21/05/30 01:03:47 << 221 2.0.0 closing connection 89sm5059535wrq.14 - gsmtp<EOL>
+21/05/30 01:03:47 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:03:47 ** Disconnected.
+21/05/30 01:03:47 ** Disconnected.
+21/05/30 01:07:36 ** --- MESSAGE BEGIN ---
+21/05/30 01:07:36 ** To: rashbush01@gmail.com
+21/05/30 01:07:36 ** Subject: Email Activation
+21/05/30 01:07:36 ** From: irecyclerz123@gmail.com
+21/05/30 01:07:36 ** 
+21/05/30 01:07:36 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:07:36 **                         http://localhost/phpcrud/registration.php?token=31b9bafbc2e5e910cf2acb70da2e86  
+21/05/30 01:07:36 ** --- MESSAGE END ---
+21/05/30 01:07:36 ** Connecting to smtp.gmail.com:587
+21/05/30 01:07:36 ** Connected.
+21/05/30 01:07:36 << 220 smtp.gmail.com ESMTP j101sm12096699wrj.66 - gsmtp<EOL>
+21/05/30 01:07:36 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:07:36 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:07:36 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:07:36 >> STARTTLS<EOL>
+21/05/30 01:07:37 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:07:37 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:07:37 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:07:37 >> AUTH LOGIN<EOL>
+21/05/30 01:07:37 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:07:37 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:07:37 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:07:37 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:07:37 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:07:37 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:07:38 << 250 2.1.0 OK j101sm12096699wrj.66 - gsmtp<EOL>
+21/05/30 01:07:38 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:07:38 << 250 2.1.5 OK j101sm12096699wrj.66 - gsmtp<EOL>
+21/05/30 01:07:38 >> DATA<EOL>
+21/05/30 01:07:38 << 354  Go ahead j101sm12096699wrj.66 - gsmtp<EOL>
+21/05/30 01:07:38 >> Date: Sun, 30 May 2021 01:07:38 +0500<EOL>
+21/05/30 01:07:38 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:07:38 >> Subject: Email Activation<EOL>
+21/05/30 01:07:38 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:07:38 >> <EOL>
+21/05/30 01:07:38 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:07:38 >>                         http://localhost/phpcrud/registration.php?token=31b9bafbc2e5e910cf2acb70da2e86  <EOL>
+21/05/30 01:07:38 >> .<EOL>
+21/05/30 01:07:39 << 250 2.0.0 OK  1622318859 j101sm12096699wrj.66 - gsmtp<EOL>
+21/05/30 01:07:39 >> QUIT<EOL>
+21/05/30 01:07:39 << 221 2.0.0 closing connection j101sm12096699wrj.66 - gsmtp<EOL>
+21/05/30 01:07:39 ** Disconnected.
+21/05/30 01:07:39 ** Disconnected.
+21/05/30 01:07:39 ** Disconnected.
+21/05/30 01:21:38 ** --- MESSAGE BEGIN ---
+21/05/30 01:21:38 ** To: rashbush01@gmail.com
+21/05/30 01:21:38 ** Subject: Email Activation
+21/05/30 01:21:38 ** From: irecyclerz123@gmail.com
+21/05/30 01:21:38 ** 
+21/05/30 01:21:38 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:21:38 **                                 http://localhost/phpcrud/registration.php?token=cc5f2bb6e4ad80d6e6c759e2f851c6  
+21/05/30 01:21:38 ** --- MESSAGE END ---
+21/05/30 01:21:39 ** Connecting to smtp.gmail.com:587
+21/05/30 01:21:39 ** Connected.
+21/05/30 01:21:39 << 220 smtp.gmail.com ESMTP i12sm5846482wmq.7 - gsmtp<EOL>
+21/05/30 01:21:39 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:21:39 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:21:39 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:21:39 >> STARTTLS<EOL>
+21/05/30 01:21:39 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:21:39 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:21:40 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:21:40 >> AUTH LOGIN<EOL>
+21/05/30 01:21:40 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:21:40 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:21:40 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:21:40 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:21:40 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:21:40 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:21:40 << 250 2.1.0 OK i12sm5846482wmq.7 - gsmtp<EOL>
+21/05/30 01:21:40 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:21:40 << 250 2.1.5 OK i12sm5846482wmq.7 - gsmtp<EOL>
+21/05/30 01:21:40 >> DATA<EOL>
+21/05/30 01:21:41 << 354  Go ahead i12sm5846482wmq.7 - gsmtp<EOL>
+21/05/30 01:21:41 >> Date: Sun, 30 May 2021 01:21:41 +0500<EOL>
+21/05/30 01:21:41 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:21:41 >> Subject: Email Activation<EOL>
+21/05/30 01:21:41 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:21:41 >> <EOL>
+21/05/30 01:21:41 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:21:41 >>                                 http://localhost/phpcrud/registration.php?token=cc5f2bb6e4ad80d6e6c759e2f851c6  <EOL>
+21/05/30 01:21:41 >> .<EOL>
+21/05/30 01:21:42 << 250 2.0.0 OK  1622319702 i12sm5846482wmq.7 - gsmtp<EOL>
+21/05/30 01:21:42 >> QUIT<EOL>
+21/05/30 01:21:42 << 221 2.0.0 closing connection i12sm5846482wmq.7 - gsmtp<EOL>
+21/05/30 01:21:42 ** Disconnected.
+21/05/30 01:21:42 ** Disconnected.
+21/05/30 01:21:42 ** Disconnected.
+21/05/30 01:26:19 ** --- MESSAGE BEGIN ---
+21/05/30 01:26:19 ** To: rashbush01@gmail.com
+21/05/30 01:26:19 ** Subject: Email Activation
+21/05/30 01:26:19 ** From: irecyclerz123@gmail.com
+21/05/30 01:26:19 ** 
+21/05/30 01:26:19 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:26:19 **                                 http://localhost/phpcrud/registration.php?token=dfcc9d3322ddde6dce37623033c8db  
+21/05/30 01:26:19 ** --- MESSAGE END ---
+21/05/30 01:26:19 ** Connecting to smtp.gmail.com:587
+21/05/30 01:26:19 ** Connected.
+21/05/30 01:26:19 << 220 smtp.gmail.com ESMTP o11sm11711353wrq.93 - gsmtp<EOL>
+21/05/30 01:26:19 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:26:20 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:26:20 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:26:20 >> STARTTLS<EOL>
+21/05/30 01:26:20 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:26:20 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:26:20 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:26:20 >> AUTH LOGIN<EOL>
+21/05/30 01:26:20 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:26:20 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:26:20 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:26:20 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:26:21 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:26:21 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:26:21 << 250 2.1.0 OK o11sm11711353wrq.93 - gsmtp<EOL>
+21/05/30 01:26:21 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:26:21 << 250 2.1.5 OK o11sm11711353wrq.93 - gsmtp<EOL>
+21/05/30 01:26:21 >> DATA<EOL>
+21/05/30 01:26:21 << 354  Go ahead o11sm11711353wrq.93 - gsmtp<EOL>
+21/05/30 01:26:21 >> Date: Sun, 30 May 2021 01:26:21 +0500<EOL>
+21/05/30 01:26:21 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:26:21 >> Subject: Email Activation<EOL>
+21/05/30 01:26:21 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:26:21 >> <EOL>
+21/05/30 01:26:21 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:26:21 >>                                 http://localhost/phpcrud/registration.php?token=dfcc9d3322ddde6dce37623033c8db  <EOL>
+21/05/30 01:26:21 >> .<EOL>
+21/05/30 01:26:22 << 250 2.0.0 OK  1622319982 o11sm11711353wrq.93 - gsmtp<EOL>
+21/05/30 01:26:22 >> QUIT<EOL>
+21/05/30 01:26:22 << 221 2.0.0 closing connection o11sm11711353wrq.93 - gsmtp<EOL>
+21/05/30 01:26:22 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:26:22 ** Disconnected.
+21/05/30 01:26:22 ** Disconnected.
+21/05/30 01:27:27 ** --- MESSAGE BEGIN ---
+21/05/30 01:27:27 ** To: bushirasheed2000@gmail.com
+21/05/30 01:27:27 ** Subject: Email Activation
+21/05/30 01:27:27 ** From: irecyclerz123@gmail.com
+21/05/30 01:27:27 ** 
+21/05/30 01:27:27 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:27:27 **                                 http://localhost/phpcrud/registration.php?token=d71e7979ebd4d8e506a9b830555981  
+21/05/30 01:27:27 ** --- MESSAGE END ---
+21/05/30 01:27:27 ** Connecting to smtp.gmail.com:587
+21/05/30 01:27:27 ** Connected.
+21/05/30 01:27:27 << 220 smtp.gmail.com ESMTP s1sm11446863wre.67 - gsmtp<EOL>
+21/05/30 01:27:27 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:27:27 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:27:27 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:27:27 >> STARTTLS<EOL>
+21/05/30 01:27:28 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:27:28 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:27:28 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:27:28 >> AUTH LOGIN<EOL>
+21/05/30 01:27:28 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:27:28 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:27:28 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:27:28 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:27:28 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:27:28 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:27:29 << 250 2.1.0 OK s1sm11446863wre.67 - gsmtp<EOL>
+21/05/30 01:27:29 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 01:27:29 << 250 2.1.5 OK s1sm11446863wre.67 - gsmtp<EOL>
+21/05/30 01:27:29 >> DATA<EOL>
+21/05/30 01:27:29 << 354  Go ahead s1sm11446863wre.67 - gsmtp<EOL>
+21/05/30 01:27:29 >> Date: Sun, 30 May 2021 01:27:29 +0500<EOL>
+21/05/30 01:27:29 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 01:27:29 >> Subject: Email Activation<EOL>
+21/05/30 01:27:29 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:27:29 >> <EOL>
+21/05/30 01:27:29 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:27:29 >>                                 http://localhost/phpcrud/registration.php?token=d71e7979ebd4d8e506a9b830555981  <EOL>
+21/05/30 01:27:29 >> .<EOL>
+21/05/30 01:27:30 << 250 2.0.0 OK  1622320050 s1sm11446863wre.67 - gsmtp<EOL>
+21/05/30 01:27:30 >> QUIT<EOL>
+21/05/30 01:27:30 << 221 2.0.0 closing connection s1sm11446863wre.67 - gsmtp<EOL>
+21/05/30 01:27:30 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:27:30 ** Disconnected.
+21/05/30 01:27:30 ** Disconnected.
+21/05/30 01:34:43 ** --- MESSAGE BEGIN ---
+21/05/30 01:34:43 ** To: rashbush01@gmail.com
+21/05/30 01:34:43 ** Subject: Email Activation
+21/05/30 01:34:43 ** From: irecyclerz123@gmail.com
+21/05/30 01:34:43 ** 
+21/05/30 01:34:43 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:34:43 **                                 http://localhost/phpcrud/registration.php?token=a8ebe44d71cb4f435205b77e6b5d72  
+21/05/30 01:34:43 ** --- MESSAGE END ---
+21/05/30 01:34:43 ** Connecting to smtp.gmail.com:587
+21/05/30 01:34:44 ** Connected.
+21/05/30 01:34:44 << 220 smtp.gmail.com ESMTP l7sm9357022wmq.22 - gsmtp<EOL>
+21/05/30 01:34:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:34:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:34:44 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:34:44 >> STARTTLS<EOL>
+21/05/30 01:34:44 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:34:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:34:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:34:44 >> AUTH LOGIN<EOL>
+21/05/30 01:34:45 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:34:45 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:34:45 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:34:45 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:34:45 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:34:45 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:34:45 << 250 2.1.0 OK l7sm9357022wmq.22 - gsmtp<EOL>
+21/05/30 01:34:45 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:34:45 << 250 2.1.5 OK l7sm9357022wmq.22 - gsmtp<EOL>
+21/05/30 01:34:45 >> DATA<EOL>
+21/05/30 01:34:46 << 354  Go ahead l7sm9357022wmq.22 - gsmtp<EOL>
+21/05/30 01:34:46 >> Date: Sun, 30 May 2021 01:34:46 +0500<EOL>
+21/05/30 01:34:46 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:34:46 >> Subject: Email Activation<EOL>
+21/05/30 01:34:46 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:34:46 >> <EOL>
+21/05/30 01:34:46 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:34:46 >>                                 http://localhost/phpcrud/registration.php?token=a8ebe44d71cb4f435205b77e6b5d72  <EOL>
+21/05/30 01:34:46 >> .<EOL>
+21/05/30 01:34:46 << 250 2.0.0 OK  1622320487 l7sm9357022wmq.22 - gsmtp<EOL>
+21/05/30 01:34:46 >> QUIT<EOL>
+21/05/30 01:34:47 << 221 2.0.0 closing connection l7sm9357022wmq.22 - gsmtp<EOL>
+21/05/30 01:34:47 ** Disconnected.
+21/05/30 01:34:47 ** Disconnected.
+21/05/30 01:34:47 ** Disconnected.
+21/05/30 01:36:52 ** --- MESSAGE BEGIN ---
+21/05/30 01:36:52 ** To: rashbush01@gmail.com
+21/05/30 01:36:52 ** Subject: Email Activation
+21/05/30 01:36:52 ** From: irecyclerz123@gmail.com
+21/05/30 01:36:52 ** 
+21/05/30 01:36:52 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:36:52 **                                 http://localhost/phpcrud/registration.php?token=7b2e38ad895f5cca9bd15112feffe6  
+21/05/30 01:36:52 ** --- MESSAGE END ---
+21/05/30 01:36:53 ** Connecting to smtp.gmail.com:587
+21/05/30 01:36:53 ** Connected.
+21/05/30 01:36:53 << 220 smtp.gmail.com ESMTP s1sm11469152wre.67 - gsmtp<EOL>
+21/05/30 01:36:53 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:36:53 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:36:53 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:36:53 >> STARTTLS<EOL>
+21/05/30 01:36:53 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:36:54 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:36:54 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:36:54 >> AUTH LOGIN<EOL>
+21/05/30 01:36:54 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:36:54 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:36:54 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:36:54 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:36:54 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:36:54 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:36:54 << 250 2.1.0 OK s1sm11469152wre.67 - gsmtp<EOL>
+21/05/30 01:36:54 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:36:54 << 250 2.1.5 OK s1sm11469152wre.67 - gsmtp<EOL>
+21/05/30 01:36:54 >> DATA<EOL>
+21/05/30 01:36:55 << 354  Go ahead s1sm11469152wre.67 - gsmtp<EOL>
+21/05/30 01:36:55 >> Date: Sun, 30 May 2021 01:36:55 +0500<EOL>
+21/05/30 01:36:55 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:36:55 >> Subject: Email Activation<EOL>
+21/05/30 01:36:55 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:36:55 >> <EOL>
+21/05/30 01:36:55 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:36:55 >>                                 http://localhost/phpcrud/registration.php?token=7b2e38ad895f5cca9bd15112feffe6  <EOL>
+21/05/30 01:36:55 >> .<EOL>
+21/05/30 01:36:55 << 250 2.0.0 OK  1622320616 s1sm11469152wre.67 - gsmtp<EOL>
+21/05/30 01:36:55 >> QUIT<EOL>
+21/05/30 01:36:56 << 221 2.0.0 closing connection s1sm11469152wre.67 - gsmtp<EOL>
+21/05/30 01:36:56 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:36:56 ** Disconnected.
+21/05/30 01:36:56 ** Disconnected.
+21/05/30 01:38:43 ** --- MESSAGE BEGIN ---
+21/05/30 01:38:43 ** To: rashbush01@gmail.com
+21/05/30 01:38:43 ** Subject: Email Activation
+21/05/30 01:38:43 ** From: irecyclerz123@gmail.com
+21/05/30 01:38:43 ** 
+21/05/30 01:38:43 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:38:43 **                                 http://localhost/phpcrud/registration.php?token=bb2138e578324a1ac76062f0bf7a74  
+21/05/30 01:38:43 ** --- MESSAGE END ---
+21/05/30 01:38:43 ** Connecting to smtp.gmail.com:587
+21/05/30 01:38:44 ** Connected.
+21/05/30 01:38:44 << 220 smtp.gmail.com ESMTP l3sm10365024wmh.2 - gsmtp<EOL>
+21/05/30 01:38:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:38:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:38:44 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:38:44 >> STARTTLS<EOL>
+21/05/30 01:38:44 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:38:44 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:38:44 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:38:44 >> AUTH LOGIN<EOL>
+21/05/30 01:38:45 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:38:45 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:38:45 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:38:45 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:38:45 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:38:45 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:38:45 << 250 2.1.0 OK l3sm10365024wmh.2 - gsmtp<EOL>
+21/05/30 01:38:45 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:38:45 << 250 2.1.5 OK l3sm10365024wmh.2 - gsmtp<EOL>
+21/05/30 01:38:45 >> DATA<EOL>
+21/05/30 01:38:45 << 354  Go ahead l3sm10365024wmh.2 - gsmtp<EOL>
+21/05/30 01:38:45 >> Date: Sun, 30 May 2021 01:38:45 +0500<EOL>
+21/05/30 01:38:45 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:38:45 >> Subject: Email Activation<EOL>
+21/05/30 01:38:45 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:38:45 >> <EOL>
+21/05/30 01:38:45 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:38:45 >>                                 http://localhost/phpcrud/registration.php?token=bb2138e578324a1ac76062f0bf7a74  <EOL>
+21/05/30 01:38:45 >> .<EOL>
+21/05/30 01:38:46 << 250 2.0.0 OK  1622320726 l3sm10365024wmh.2 - gsmtp<EOL>
+21/05/30 01:38:46 >> QUIT<EOL>
+21/05/30 01:38:46 << 221 2.0.0 closing connection l3sm10365024wmh.2 - gsmtp<EOL>
+21/05/30 01:38:46 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:38:46 ** Disconnected.
+21/05/30 01:38:46 ** Disconnected.
+21/05/30 01:39:56 ** --- MESSAGE BEGIN ---
+21/05/30 01:39:56 ** To: rashbush01@gmail.com
+21/05/30 01:39:56 ** Subject: Email Activation
+21/05/30 01:39:56 ** From: irecyclerz123@gmail.com
+21/05/30 01:39:56 ** 
+21/05/30 01:39:56 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:39:56 **                                 http://localhost/phpcrud/registration.php?token=86db75f6b2a94535c31f11bd7163b6  
+21/05/30 01:39:56 ** --- MESSAGE END ---
+21/05/30 01:39:56 ** Connecting to smtp.gmail.com:587
+21/05/30 01:39:57 ** Connected.
+21/05/30 01:39:57 << 220 smtp.gmail.com ESMTP s1sm11475591wre.67 - gsmtp<EOL>
+21/05/30 01:39:57 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:39:57 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:39:57 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:39:57 >> STARTTLS<EOL>
+21/05/30 01:39:57 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:39:57 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:39:57 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:39:57 >> AUTH LOGIN<EOL>
+21/05/30 01:39:58 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:39:58 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:39:58 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:39:58 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:39:58 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:39:58 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:39:58 << 250 2.1.0 OK s1sm11475591wre.67 - gsmtp<EOL>
+21/05/30 01:39:58 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:39:58 << 250 2.1.5 OK s1sm11475591wre.67 - gsmtp<EOL>
+21/05/30 01:39:58 >> DATA<EOL>
+21/05/30 01:39:58 << 354  Go ahead s1sm11475591wre.67 - gsmtp<EOL>
+21/05/30 01:39:58 >> Date: Sun, 30 May 2021 01:39:58 +0500<EOL>
+21/05/30 01:39:58 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:39:58 >> Subject: Email Activation<EOL>
+21/05/30 01:39:58 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:39:58 >> <EOL>
+21/05/30 01:39:58 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:39:58 >>                                 http://localhost/phpcrud/registration.php?token=86db75f6b2a94535c31f11bd7163b6  <EOL>
+21/05/30 01:39:58 >> .<EOL>
+21/05/30 01:39:59 << 250 2.0.0 OK  1622320799 s1sm11475591wre.67 - gsmtp<EOL>
+21/05/30 01:39:59 >> QUIT<EOL>
+21/05/30 01:39:59 << 221 2.0.0 closing connection s1sm11475591wre.67 - gsmtp<EOL>
+21/05/30 01:39:59 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:39:59 ** Disconnected.
+21/05/30 01:39:59 ** Disconnected.
+21/05/30 01:42:21 ** --- MESSAGE BEGIN ---
+21/05/30 01:42:21 ** To: rashbush01@gmail.com
+21/05/30 01:42:21 ** Subject: Email Activation
+21/05/30 01:42:21 ** From: irecyclerz123@gmail.com
+21/05/30 01:42:21 ** 
+21/05/30 01:42:21 ** Hi, Bushra. Click here to activate your account
+21/05/30 01:42:21 **                                 http://localhost/phpcrud/registration.php?token=3489645820686625d5aeab51c57cd3  
+21/05/30 01:42:21 ** --- MESSAGE END ---
+21/05/30 01:42:21 ** Connecting to smtp.gmail.com:587
+21/05/30 01:42:22 ** Connected.
+21/05/30 01:42:22 << 220 smtp.gmail.com ESMTP s5sm10458550wmh.37 - gsmtp<EOL>
+21/05/30 01:42:22 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:42:22 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:42:22 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 01:42:22 >> STARTTLS<EOL>
+21/05/30 01:42:22 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 01:42:22 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 01:42:22 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 01:42:22 >> AUTH LOGIN<EOL>
+21/05/30 01:42:23 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 01:42:23 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 01:42:23 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 01:42:23 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 01:42:23 << 235 2.7.0 Accepted<EOL>
+21/05/30 01:42:23 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 01:42:23 << 250 2.1.0 OK s5sm10458550wmh.37 - gsmtp<EOL>
+21/05/30 01:42:23 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 01:42:23 << 250 2.1.5 OK s5sm10458550wmh.37 - gsmtp<EOL>
+21/05/30 01:42:23 >> DATA<EOL>
+21/05/30 01:42:24 << 354  Go ahead s5sm10458550wmh.37 - gsmtp<EOL>
+21/05/30 01:42:24 >> Date: Sun, 30 May 2021 01:42:24 +0500<EOL>
+21/05/30 01:42:24 >> To: rashbush01@gmail.com<EOL>
+21/05/30 01:42:24 >> Subject: Email Activation<EOL>
+21/05/30 01:42:24 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 01:42:24 >> <EOL>
+21/05/30 01:42:24 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 01:42:24 >>                                 http://localhost/phpcrud/registration.php?token=3489645820686625d5aeab51c57cd3  <EOL>
+21/05/30 01:42:24 >> .<EOL>
+21/05/30 01:42:24 << 250 2.0.0 OK  1622320945 s5sm10458550wmh.37 - gsmtp<EOL>
+21/05/30 01:42:24 >> QUIT<EOL>
+21/05/30 01:42:24 << 221 2.0.0 closing connection s5sm10458550wmh.37 - gsmtp<EOL>
+21/05/30 01:42:24 ** Disconnecting from smtp.gmail.com:587
+21/05/30 01:42:24 ** Disconnected.
+21/05/30 01:42:24 ** Disconnected.
+21/05/30 12:41:59 ** --- MESSAGE BEGIN ---
+21/05/30 12:41:59 ** To: rashbush01@gmail.com
+21/05/30 12:41:59 ** Subject: Email Activation
+21/05/30 12:41:59 ** From: irecyclerz123@gmail.com
+21/05/30 12:41:59 ** 
+21/05/30 12:42:00 ** Hi, Bushra. Click here to activate your account
+21/05/30 12:42:00 **                                 http://localhost/phpcrud/registration.php?token=003debc88c2f976f7d716585634b18  
+21/05/30 12:42:00 ** --- MESSAGE END ---
+21/05/30 12:42:00 ** Connecting to smtp.gmail.com:587
+21/05/30 12:42:01 ** Connected.
+21/05/30 12:42:01 << 220 smtp.gmail.com ESMTP x7sm3188263wre.8 - gsmtp<EOL>
+21/05/30 12:42:01 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:42:01 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:42:01 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 12:42:01 >> STARTTLS<EOL>
+21/05/30 12:42:01 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 12:42:02 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:42:02 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:42:02 >> AUTH LOGIN<EOL>
+21/05/30 12:42:02 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 12:42:02 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 12:42:03 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 12:42:03 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 12:42:03 << 235 2.7.0 Accepted<EOL>
+21/05/30 12:42:03 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 12:42:03 << 250 2.1.0 OK x7sm3188263wre.8 - gsmtp<EOL>
+21/05/30 12:42:03 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 12:42:03 << 250 2.1.5 OK x7sm3188263wre.8 - gsmtp<EOL>
+21/05/30 12:42:03 >> DATA<EOL>
+21/05/30 12:42:04 << 354  Go ahead x7sm3188263wre.8 - gsmtp<EOL>
+21/05/30 12:42:04 >> Date: Sun, 30 May 2021 12:42:04 +0500<EOL>
+21/05/30 12:42:04 >> To: rashbush01@gmail.com<EOL>
+21/05/30 12:42:04 >> Subject: Email Activation<EOL>
+21/05/30 12:42:04 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 12:42:04 >> <EOL>
+21/05/30 12:42:04 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 12:42:04 >>                                 http://localhost/phpcrud/registration.php?token=003debc88c2f976f7d716585634b18  <EOL>
+21/05/30 12:42:04 >> .<EOL>
+21/05/30 12:42:05 << 250 2.0.0 OK  1622360526 x7sm3188263wre.8 - gsmtp<EOL>
+21/05/30 12:42:05 >> QUIT<EOL>
+21/05/30 12:42:05 << 221 2.0.0 closing connection x7sm3188263wre.8 - gsmtp<EOL>
+21/05/30 12:42:05 ** Disconnected.
+21/05/30 12:42:05 ** Disconnected.
+21/05/30 12:42:05 ** Disconnected.
+21/05/30 12:48:54 ** --- MESSAGE BEGIN ---
+21/05/30 12:48:54 ** To: rashbush01@gmail.com
+21/05/30 12:48:54 ** Subject: Email Activation
+21/05/30 12:48:54 ** From: irecyclerz123@gmail.com
+21/05/30 12:48:54 ** 
+21/05/30 12:48:54 ** Hi, Bushra. Click here to activate your account
+21/05/30 12:48:54 **                                 http://localhost/phpcrud/registration.php?token=87b13c8e8575bd27eb5ed4fcc14351  
+21/05/30 12:48:54 ** --- MESSAGE END ---
+21/05/30 12:48:54 ** Connecting to smtp.gmail.com:587
+21/05/30 12:48:55 ** Connected.
+21/05/30 12:48:55 << 220 smtp.gmail.com ESMTP r11sm13080609wrp.46 - gsmtp<EOL>
+21/05/30 12:48:55 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:48:55 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:48:55 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 12:48:55 >> STARTTLS<EOL>
+21/05/30 12:48:55 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 12:48:55 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:48:56 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:48:56 >> AUTH LOGIN<EOL>
+21/05/30 12:48:56 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 12:48:56 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 12:48:56 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 12:48:56 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 12:48:56 << 235 2.7.0 Accepted<EOL>
+21/05/30 12:48:56 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 12:48:57 << 250 2.1.0 OK r11sm13080609wrp.46 - gsmtp<EOL>
+21/05/30 12:48:57 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 12:48:57 << 250 2.1.5 OK r11sm13080609wrp.46 - gsmtp<EOL>
+21/05/30 12:48:57 >> DATA<EOL>
+21/05/30 12:48:57 << 354  Go ahead r11sm13080609wrp.46 - gsmtp<EOL>
+21/05/30 12:48:57 >> Date: Sun, 30 May 2021 12:48:57 +0500<EOL>
+21/05/30 12:48:57 >> To: rashbush01@gmail.com<EOL>
+21/05/30 12:48:57 >> Subject: Email Activation<EOL>
+21/05/30 12:48:57 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 12:48:57 >> <EOL>
+21/05/30 12:48:57 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 12:48:57 >>                                 http://localhost/phpcrud/registration.php?token=87b13c8e8575bd27eb5ed4fcc14351  <EOL>
+21/05/30 12:48:57 >> .<EOL>
+21/05/30 12:48:58 << 250 2.0.0 OK  1622360939 r11sm13080609wrp.46 - gsmtp<EOL>
+21/05/30 12:48:58 >> QUIT<EOL>
+21/05/30 12:48:58 << 221 2.0.0 closing connection r11sm13080609wrp.46 - gsmtp<EOL>
+21/05/30 12:48:58 ** Disconnected.
+21/05/30 12:48:58 ** Disconnected.
+21/05/30 12:48:58 ** Disconnected.
+21/05/30 12:49:44 ** --- MESSAGE BEGIN ---
+21/05/30 12:49:44 ** To: rashbush01@gmail.com
+21/05/30 12:49:44 ** Subject: Email Activation
+21/05/30 12:49:44 ** From: irecyclerz123@gmail.com
+21/05/30 12:49:44 ** 
+21/05/30 12:49:44 ** Hi, xz. Click here to activate your account
+21/05/30 12:49:44 **                                 http://localhost/phpcrud/registration.php?token=e9599ee961fbf9a8187c2897277f07  
+21/05/30 12:49:44 ** --- MESSAGE END ---
+21/05/30 12:49:44 ** Connecting to smtp.gmail.com:587
+21/05/30 12:49:45 ** Connected.
+21/05/30 12:49:45 << 220 smtp.gmail.com ESMTP c206sm19168236wmf.12 - gsmtp<EOL>
+21/05/30 12:49:45 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:49:45 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:49:45 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 12:49:45 >> STARTTLS<EOL>
+21/05/30 12:49:45 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 12:49:46 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:49:46 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:49:46 >> AUTH LOGIN<EOL>
+21/05/30 12:49:46 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 12:49:46 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 12:49:46 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 12:49:46 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 12:49:47 << 235 2.7.0 Accepted<EOL>
+21/05/30 12:49:47 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 12:49:47 << 250 2.1.0 OK c206sm19168236wmf.12 - gsmtp<EOL>
+21/05/30 12:49:47 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 12:49:47 << 250 2.1.5 OK c206sm19168236wmf.12 - gsmtp<EOL>
+21/05/30 12:49:47 >> DATA<EOL>
+21/05/30 12:49:47 << 354  Go ahead c206sm19168236wmf.12 - gsmtp<EOL>
+21/05/30 12:49:47 >> Date: Sun, 30 May 2021 12:49:47 +0500<EOL>
+21/05/30 12:49:47 >> To: rashbush01@gmail.com<EOL>
+21/05/30 12:49:47 >> Subject: Email Activation<EOL>
+21/05/30 12:49:47 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 12:49:47 >> <EOL>
+21/05/30 12:49:47 >> Hi, xz. Click here to activate your account<EOL>
+21/05/30 12:49:47 >>                                 http://localhost/phpcrud/registration.php?token=e9599ee961fbf9a8187c2897277f07  <EOL>
+21/05/30 12:49:47 >> .<EOL>
+21/05/30 12:49:48 << 250 2.0.0 OK  1622360989 c206sm19168236wmf.12 - gsmtp<EOL>
+21/05/30 12:49:48 >> QUIT<EOL>
+21/05/30 12:49:48 << 221 2.0.0 closing connection c206sm19168236wmf.12 - gsmtp<EOL>
+21/05/30 12:49:48 ** Disconnected.
+21/05/30 12:49:48 ** Disconnected.
+21/05/30 12:49:48 ** Disconnected.
+21/05/30 12:50:50 ** --- MESSAGE BEGIN ---
+21/05/30 12:50:50 ** To: rashbush01@gmail.com
+21/05/30 12:50:50 ** Subject: Email Activation
+21/05/30 12:50:50 ** From: irecyclerz123@gmail.com
+21/05/30 12:50:50 ** 
+21/05/30 12:50:50 ** Hi, Bushra. Click here to activate your account
+21/05/30 12:50:51 **                                 http://localhost/phpcrud/registration.php?token=eea871e3dbb1465297adb2efdcd434  
+21/05/30 12:50:51 ** --- MESSAGE END ---
+21/05/30 12:50:51 ** Connecting to smtp.gmail.com:587
+21/05/30 12:50:51 ** Connected.
+21/05/30 12:50:51 << 220 smtp.gmail.com ESMTP c6sm12743840wrt.20 - gsmtp<EOL>
+21/05/30 12:50:51 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:50:52 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:50:52 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 12:50:52 >> STARTTLS<EOL>
+21/05/30 12:50:52 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 12:50:52 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 12:50:52 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 12:50:52 >> AUTH LOGIN<EOL>
+21/05/30 12:50:52 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 12:50:52 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 12:50:52 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 12:50:52 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 12:50:53 << 235 2.7.0 Accepted<EOL>
+21/05/30 12:50:53 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 12:50:53 << 250 2.1.0 OK c6sm12743840wrt.20 - gsmtp<EOL>
+21/05/30 12:50:53 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 12:50:53 << 250 2.1.5 OK c6sm12743840wrt.20 - gsmtp<EOL>
+21/05/30 12:50:53 >> DATA<EOL>
+21/05/30 12:50:53 << 354  Go ahead c6sm12743840wrt.20 - gsmtp<EOL>
+21/05/30 12:50:53 >> Date: Sun, 30 May 2021 12:50:53 +0500<EOL>
+21/05/30 12:50:53 >> To: rashbush01@gmail.com<EOL>
+21/05/30 12:50:53 >> Subject: Email Activation<EOL>
+21/05/30 12:50:53 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 12:50:53 >> <EOL>
+21/05/30 12:50:53 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 12:50:53 >>                                 http://localhost/phpcrud/registration.php?token=eea871e3dbb1465297adb2efdcd434  <EOL>
+21/05/30 12:50:53 >> .<EOL>
+21/05/30 12:50:54 << 250 2.0.0 OK  1622361055 c6sm12743840wrt.20 - gsmtp<EOL>
+21/05/30 12:50:54 >> QUIT<EOL>
+21/05/30 12:50:54 << 221 2.0.0 closing connection c6sm12743840wrt.20 - gsmtp<EOL>
+21/05/30 12:50:54 ** Disconnected.
+21/05/30 12:50:54 ** Disconnected.
+21/05/30 12:50:54 ** Disconnected.
+21/05/30 13:19:07 ** --- MESSAGE BEGIN ---
+21/05/30 13:19:07 ** To: rashbush01@gmail.com
+21/05/30 13:19:07 ** Subject: Email Activation
+21/05/30 13:19:07 ** From: irecyclerz123@gmail.com
+21/05/30 13:19:07 ** 
+21/05/30 13:19:07 ** Hi, Bushra. Click here to activate your account
+21/05/30 13:19:07 **                                 http://localhost/phpcrud/registration.php?token=2979dcddec15bd17b711bfd202ecc8  
+21/05/30 13:19:07 ** --- MESSAGE END ---
+21/05/30 13:19:07 ** Connecting to smtp.gmail.com:587
+21/05/30 13:19:08 ** Connected.
+21/05/30 13:19:08 << 220 smtp.gmail.com ESMTP g70sm12243457wme.9 - gsmtp<EOL>
+21/05/30 13:19:08 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 13:19:08 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 13:19:08 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 13:19:08 >> STARTTLS<EOL>
+21/05/30 13:19:08 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 13:19:08 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 13:19:08 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 13:19:08 >> AUTH LOGIN<EOL>
+21/05/30 13:19:09 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 13:19:09 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 13:19:09 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 13:19:09 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 13:19:09 << 235 2.7.0 Accepted<EOL>
+21/05/30 13:19:09 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 13:19:09 << 250 2.1.0 OK g70sm12243457wme.9 - gsmtp<EOL>
+21/05/30 13:19:09 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 13:19:09 << 250 2.1.5 OK g70sm12243457wme.9 - gsmtp<EOL>
+21/05/30 13:19:09 >> DATA<EOL>
+21/05/30 13:19:10 << 354  Go ahead g70sm12243457wme.9 - gsmtp<EOL>
+21/05/30 13:19:10 >> Date: Sun, 30 May 2021 13:19:10 +0500<EOL>
+21/05/30 13:19:10 >> To: rashbush01@gmail.com<EOL>
+21/05/30 13:19:10 >> Subject: Email Activation<EOL>
+21/05/30 13:19:10 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 13:19:10 >> <EOL>
+21/05/30 13:19:10 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 13:19:10 >>                                 http://localhost/phpcrud/registration.php?token=2979dcddec15bd17b711bfd202ecc8  <EOL>
+21/05/30 13:19:10 >> .<EOL>
+21/05/30 13:19:11 << 250 2.0.0 OK  1622362752 g70sm12243457wme.9 - gsmtp<EOL>
+21/05/30 13:19:11 >> QUIT<EOL>
+21/05/30 13:19:11 << 221 2.0.0 closing connection g70sm12243457wme.9 - gsmtp<EOL>
+21/05/30 13:19:11 ** Disconnected.
+21/05/30 13:19:11 ** Disconnected.
+21/05/30 13:19:11 ** Disconnected.
+21/05/30 13:23:48 ** --- MESSAGE BEGIN ---
+21/05/30 13:23:48 ** To: rashbush01@gmail.com
+21/05/30 13:23:48 ** Subject: Email Activation
+21/05/30 13:23:48 ** From: irecyclerz123@gmail.com
+21/05/30 13:23:48 ** 
+21/05/30 13:23:48 ** Hi, Bushra. Click here to activate your account
+21/05/30 13:23:48 **                                 http://localhost/phpcrud/registration.php?token=13c6c50dd93f95b0d587b72b12870c  
+21/05/30 13:23:48 ** --- MESSAGE END ---
+21/05/30 13:23:48 ** Connecting to smtp.gmail.com:587
+21/05/30 13:23:49 ** Connected.
+21/05/30 13:23:49 << 220 smtp.gmail.com ESMTP 92sm10988267wrp.88 - gsmtp<EOL>
+21/05/30 13:23:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 13:23:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 13:23:49 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 13:23:49 >> STARTTLS<EOL>
+21/05/30 13:23:49 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 13:23:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 13:23:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 13:23:49 >> AUTH LOGIN<EOL>
+21/05/30 13:23:50 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 13:23:50 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 13:23:50 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 13:23:50 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 13:23:50 << 235 2.7.0 Accepted<EOL>
+21/05/30 13:23:50 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 13:23:50 << 250 2.1.0 OK 92sm10988267wrp.88 - gsmtp<EOL>
+21/05/30 13:23:50 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 13:23:51 << 250 2.1.5 OK 92sm10988267wrp.88 - gsmtp<EOL>
+21/05/30 13:23:51 >> DATA<EOL>
+21/05/30 13:23:51 << 354  Go ahead 92sm10988267wrp.88 - gsmtp<EOL>
+21/05/30 13:23:51 >> Date: Sun, 30 May 2021 13:23:51 +0500<EOL>
+21/05/30 13:23:51 >> To: rashbush01@gmail.com<EOL>
+21/05/30 13:23:51 >> Subject: Email Activation<EOL>
+21/05/30 13:23:51 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 13:23:51 >> <EOL>
+21/05/30 13:23:51 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 13:23:51 >>                                 http://localhost/phpcrud/registration.php?token=13c6c50dd93f95b0d587b72b12870c  <EOL>
+21/05/30 13:23:51 >> .<EOL>
+21/05/30 13:23:52 << 250 2.0.0 OK  1622363033 92sm10988267wrp.88 - gsmtp<EOL>
+21/05/30 13:23:52 >> QUIT<EOL>
+21/05/30 13:23:52 << 221 2.0.0 closing connection 92sm10988267wrp.88 - gsmtp<EOL>
+21/05/30 13:23:52 ** Disconnected.
+21/05/30 13:23:52 ** Disconnected.
+21/05/30 13:23:52 ** Disconnected.
+21/05/30 13:24:17 ** --- MESSAGE BEGIN ---
+21/05/30 13:24:17 ** To: rashbush01@gmail.com
+21/05/30 13:24:17 ** Subject: Email Activation
+21/05/30 13:24:17 ** From: irecyclerz123@gmail.com
+21/05/30 13:24:17 ** 
+21/05/30 13:24:17 ** Hi, Bushra. Click here to activate your account
+21/05/30 13:24:17 **                                 http://localhost/phpcrud/registration.php?token=b7a456bfa938375c4764de75f33335  
+21/05/30 13:24:17 ** --- MESSAGE END ---
+21/05/30 13:24:17 ** Connecting to smtp.gmail.com:587
+21/05/30 13:24:18 ** Connected.
+21/05/30 13:24:18 << 220 smtp.gmail.com ESMTP v10sm11718822wre.33 - gsmtp<EOL>
+21/05/30 13:24:18 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 13:24:18 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 13:24:18 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 13:24:18 >> STARTTLS<EOL>
+21/05/30 13:24:18 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 13:24:19 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 13:24:19 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 13:24:19 >> AUTH LOGIN<EOL>
+21/05/30 13:24:19 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 13:24:19 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 13:24:19 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 13:24:19 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 13:24:19 << 235 2.7.0 Accepted<EOL>
+21/05/30 13:24:19 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 13:24:20 << 250 2.1.0 OK v10sm11718822wre.33 - gsmtp<EOL>
+21/05/30 13:24:20 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 13:24:20 << 250 2.1.5 OK v10sm11718822wre.33 - gsmtp<EOL>
+21/05/30 13:24:20 >> DATA<EOL>
+21/05/30 13:24:20 << 354  Go ahead v10sm11718822wre.33 - gsmtp<EOL>
+21/05/30 13:24:20 >> Date: Sun, 30 May 2021 13:24:20 +0500<EOL>
+21/05/30 13:24:20 >> To: rashbush01@gmail.com<EOL>
+21/05/30 13:24:20 >> Subject: Email Activation<EOL>
+21/05/30 13:24:20 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 13:24:20 >> <EOL>
+21/05/30 13:24:20 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 13:24:20 >>                                 http://localhost/phpcrud/registration.php?token=b7a456bfa938375c4764de75f33335  <EOL>
+21/05/30 13:24:20 >> .<EOL>
+21/05/30 13:24:21 << 250 2.0.0 OK  1622363062 v10sm11718822wre.33 - gsmtp<EOL>
+21/05/30 13:24:21 >> QUIT<EOL>
+21/05/30 13:24:21 << 221 2.0.0 closing connection v10sm11718822wre.33 - gsmtp<EOL>
+21/05/30 13:24:21 ** Disconnected.
+21/05/30 13:24:21 ** Disconnected.
+21/05/30 13:24:21 ** Disconnected.
+21/05/30 15:17:30 ** --- MESSAGE BEGIN ---
+21/05/30 15:17:30 ** To: rashbush01@gmail.com
+21/05/30 15:17:30 ** Subject: Email Activation
+21/05/30 15:17:30 ** From: irecyclerz123@gmail.com
+21/05/30 15:17:30 ** 
+21/05/30 15:17:30 ** Hi, Bushra. Click here to activate your account
+21/05/30 15:17:30 **                                 http://localhost/phpcrud/registration.php?token=4bcd0eaf58da4e5d1d22403e623ed1  
+21/05/30 15:17:30 ** --- MESSAGE END ---
+21/05/30 15:17:30 ** Connecting to smtp.gmail.com:587
+21/05/30 15:17:31 ** Connected.
+21/05/30 15:17:31 << 220 smtp.gmail.com ESMTP y20sm22707511wmi.0 - gsmtp<EOL>
+21/05/30 15:17:31 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:17:32 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:17:32 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 15:17:32 >> STARTTLS<EOL>
+21/05/30 15:17:32 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 15:17:32 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:17:32 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:17:32 >> AUTH LOGIN<EOL>
+21/05/30 15:17:33 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 15:17:33 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 15:17:33 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 15:17:33 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 15:17:33 << 235 2.7.0 Accepted<EOL>
+21/05/30 15:17:33 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 15:17:33 << 250 2.1.0 OK y20sm22707511wmi.0 - gsmtp<EOL>
+21/05/30 15:17:33 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 15:17:34 << 250 2.1.5 OK y20sm22707511wmi.0 - gsmtp<EOL>
+21/05/30 15:17:34 >> DATA<EOL>
+21/05/30 15:17:34 << 354  Go ahead y20sm22707511wmi.0 - gsmtp<EOL>
+21/05/30 15:17:34 >> Date: Sun, 30 May 2021 15:17:34 +0500<EOL>
+21/05/30 15:17:34 >> To: rashbush01@gmail.com<EOL>
+21/05/30 15:17:34 >> Subject: Email Activation<EOL>
+21/05/30 15:17:34 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 15:17:34 >> <EOL>
+21/05/30 15:17:34 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 15:17:34 >>                                 http://localhost/phpcrud/registration.php?token=4bcd0eaf58da4e5d1d22403e623ed1  <EOL>
+21/05/30 15:17:34 >> .<EOL>
+21/05/30 15:17:35 << 250 2.0.0 OK  1622369856 y20sm22707511wmi.0 - gsmtp<EOL>
+21/05/30 15:17:35 >> QUIT<EOL>
+21/05/30 15:17:35 << 221 2.0.0 closing connection y20sm22707511wmi.0 - gsmtp<EOL>
+21/05/30 15:17:35 ** Disconnected.
+21/05/30 15:17:35 ** Disconnected.
+21/05/30 15:17:35 ** Disconnected.
+21/05/30 15:27:02 ** --- MESSAGE BEGIN ---
+21/05/30 15:27:02 ** To: rashbush01@gmail.com
+21/05/30 15:27:02 ** Subject: Email Activation
+21/05/30 15:27:02 ** From: irecyclerz123@gmail.com
+21/05/30 15:27:02 ** 
+21/05/30 15:27:02 ** Hi, Bushra. Click here to activate your account
+21/05/30 15:27:02 **                                 http://localhost/phpcrud/registration.php?token=42d84c26477f4abadc09cae1734069  
+21/05/30 15:27:02 ** --- MESSAGE END ---
+21/05/30 15:27:02 ** Connecting to smtp.gmail.com:587
+21/05/30 15:27:02 ** Connected.
+21/05/30 15:27:02 << 220 smtp.gmail.com ESMTP n13sm14303183wrg.75 - gsmtp<EOL>
+21/05/30 15:27:02 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:27:03 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:27:03 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 15:27:03 >> STARTTLS<EOL>
+21/05/30 15:27:03 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 15:27:03 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:27:03 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:27:03 >> AUTH LOGIN<EOL>
+21/05/30 15:27:04 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 15:27:04 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 15:27:04 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 15:27:04 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 15:27:04 << 235 2.7.0 Accepted<EOL>
+21/05/30 15:27:04 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 15:27:04 << 250 2.1.0 OK n13sm14303183wrg.75 - gsmtp<EOL>
+21/05/30 15:27:04 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 15:27:04 << 250 2.1.5 OK n13sm14303183wrg.75 - gsmtp<EOL>
+21/05/30 15:27:04 >> DATA<EOL>
+21/05/30 15:27:05 << 354  Go ahead n13sm14303183wrg.75 - gsmtp<EOL>
+21/05/30 15:27:05 >> Date: Sun, 30 May 2021 15:27:05 +0500<EOL>
+21/05/30 15:27:05 >> To: rashbush01@gmail.com<EOL>
+21/05/30 15:27:05 >> Subject: Email Activation<EOL>
+21/05/30 15:27:05 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 15:27:05 >> <EOL>
+21/05/30 15:27:05 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 15:27:05 >>                                 http://localhost/phpcrud/registration.php?token=42d84c26477f4abadc09cae1734069  <EOL>
+21/05/30 15:27:05 >> .<EOL>
+21/05/30 15:27:06 << 250 2.0.0 OK  1622370427 n13sm14303183wrg.75 - gsmtp<EOL>
+21/05/30 15:27:06 >> QUIT<EOL>
+21/05/30 15:27:06 << 221 2.0.0 closing connection n13sm14303183wrg.75 - gsmtp<EOL>
+21/05/30 15:27:06 ** Disconnected.
+21/05/30 15:27:06 ** Disconnected.
+21/05/30 15:27:06 ** Disconnected.
+21/05/30 15:31:41 ** --- MESSAGE BEGIN ---
+21/05/30 15:31:41 ** To: rashbush01@gmail.com
+21/05/30 15:31:41 ** Subject: Email Activation
+21/05/30 15:31:41 ** From: irecyclerz123@gmail.com
+21/05/30 15:31:41 ** 
+21/05/30 15:31:41 ** Hi, Bushra. Click here to activate your account
+21/05/30 15:31:41 **                                 http://localhost/phpcrud/registration.php?token=8b0cfc068f735fc4097a0b89f4329e  
+21/05/30 15:31:41 ** --- MESSAGE END ---
+21/05/30 15:31:41 ** Connecting to smtp.gmail.com:587
+21/05/30 15:31:42 ** Connected.
+21/05/30 15:31:42 << 220 smtp.gmail.com ESMTP z3sm19699613wmi.31 - gsmtp<EOL>
+21/05/30 15:31:42 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:31:42 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:31:42 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 15:31:42 >> STARTTLS<EOL>
+21/05/30 15:31:42 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 15:31:42 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:31:43 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:31:43 >> AUTH LOGIN<EOL>
+21/05/30 15:31:43 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 15:31:43 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 15:31:43 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 15:31:43 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 15:31:43 << 235 2.7.0 Accepted<EOL>
+21/05/30 15:31:43 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 15:31:44 << 250 2.1.0 OK z3sm19699613wmi.31 - gsmtp<EOL>
+21/05/30 15:31:44 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 15:31:44 << 250 2.1.5 OK z3sm19699613wmi.31 - gsmtp<EOL>
+21/05/30 15:31:44 >> DATA<EOL>
+21/05/30 15:31:44 << 354  Go ahead z3sm19699613wmi.31 - gsmtp<EOL>
+21/05/30 15:31:44 >> Date: Sun, 30 May 2021 15:31:44 +0500<EOL>
+21/05/30 15:31:44 >> To: rashbush01@gmail.com<EOL>
+21/05/30 15:31:44 >> Subject: Email Activation<EOL>
+21/05/30 15:31:44 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 15:31:44 >> <EOL>
+21/05/30 15:31:44 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 15:31:44 >>                                 http://localhost/phpcrud/registration.php?token=8b0cfc068f735fc4097a0b89f4329e  <EOL>
+21/05/30 15:31:44 >> .<EOL>
+21/05/30 15:31:45 << 250 2.0.0 OK  1622370706 z3sm19699613wmi.31 - gsmtp<EOL>
+21/05/30 15:31:45 >> QUIT<EOL>
+21/05/30 15:31:45 << 221 2.0.0 closing connection z3sm19699613wmi.31 - gsmtp<EOL>
+21/05/30 15:31:45 ** Disconnected.
+21/05/30 15:31:45 ** Disconnected.
+21/05/30 15:31:45 ** Disconnected.
+21/05/30 15:42:25 ** --- MESSAGE BEGIN ---
+21/05/30 15:42:25 ** To: rashbush01@gmail.com
+21/05/30 15:42:25 ** Subject: Email Activation
+21/05/30 15:42:25 ** From: irecyclerz123@gmail.com
+21/05/30 15:42:25 ** 
+21/05/30 15:42:25 ** Hi, Bushra. Click here to activate your account
+21/05/30 15:42:25 **                                 http://localhost/phpcrud/registration.php?token=8cff337dbe20e9c37152f1b5ed8d36  
+21/05/30 15:42:25 ** --- MESSAGE END ---
+21/05/30 15:42:25 ** Connecting to smtp.gmail.com:587
+21/05/30 15:42:26 ** Connected.
+21/05/30 15:42:26 << 220 smtp.gmail.com ESMTP i34sm3440719wri.3 - gsmtp<EOL>
+21/05/30 15:42:26 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:42:26 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:42:26 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 15:42:26 >> STARTTLS<EOL>
+21/05/30 15:42:26 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 15:42:27 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:42:27 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:42:27 >> AUTH LOGIN<EOL>
+21/05/30 15:42:27 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 15:42:27 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 15:42:27 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 15:42:27 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 15:42:27 << 235 2.7.0 Accepted<EOL>
+21/05/30 15:42:27 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 15:42:28 << 250 2.1.0 OK i34sm3440719wri.3 - gsmtp<EOL>
+21/05/30 15:42:28 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/05/30 15:42:28 << 250 2.1.5 OK i34sm3440719wri.3 - gsmtp<EOL>
+21/05/30 15:42:28 >> DATA<EOL>
+21/05/30 15:42:28 << 354  Go ahead i34sm3440719wri.3 - gsmtp<EOL>
+21/05/30 15:42:28 >> Date: Sun, 30 May 2021 15:42:28 +0500<EOL>
+21/05/30 15:42:28 >> To: rashbush01@gmail.com<EOL>
+21/05/30 15:42:28 >> Subject: Email Activation<EOL>
+21/05/30 15:42:28 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 15:42:28 >> <EOL>
+21/05/30 15:42:28 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 15:42:28 >>                                 http://localhost/phpcrud/registration.php?token=8cff337dbe20e9c37152f1b5ed8d36  <EOL>
+21/05/30 15:42:28 >> .<EOL>
+21/05/30 15:42:29 << 250 2.0.0 OK  1622371350 i34sm3440719wri.3 - gsmtp<EOL>
+21/05/30 15:42:29 >> QUIT<EOL>
+21/05/30 15:42:29 << 221 2.0.0 closing connection i34sm3440719wri.3 - gsmtp<EOL>
+21/05/30 15:42:29 ** Disconnecting from smtp.gmail.com:587
+21/05/30 15:42:29 ** Disconnected.
+21/05/30 15:42:29 ** Disconnected.
+21/05/30 15:46:18 ** --- MESSAGE BEGIN ---
+21/05/30 15:46:18 ** To: bushirasheed2000@gmail.com
+21/05/30 15:46:18 ** Subject: Email Activation
+21/05/30 15:46:18 ** From: irecyclerz123@gmail.com
+21/05/30 15:46:18 ** 
+21/05/30 15:46:18 ** Hi, Bushra. Click here to activate your account
+21/05/30 15:46:18 **                                 http://localhost/phpcrud/registration.php?token=5c46880318ecb8bf79b162a34c5401  
+21/05/30 15:46:18 ** --- MESSAGE END ---
+21/05/30 15:46:19 ** Connecting to smtp.gmail.com:587
+21/05/30 15:46:19 ** Connected.
+21/05/30 15:46:19 << 220 smtp.gmail.com ESMTP t1sm712517wrx.28 - gsmtp<EOL>
+21/05/30 15:46:19 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:46:19 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:46:19 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 15:46:19 >> STARTTLS<EOL>
+21/05/30 15:46:19 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 15:46:20 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 15:46:20 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 15:46:20 >> AUTH LOGIN<EOL>
+21/05/30 15:46:20 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 15:46:20 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 15:46:20 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 15:46:20 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 15:46:21 << 235 2.7.0 Accepted<EOL>
+21/05/30 15:46:21 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 15:46:21 << 250 2.1.0 OK t1sm712517wrx.28 - gsmtp<EOL>
+21/05/30 15:46:21 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 15:46:21 << 250 2.1.5 OK t1sm712517wrx.28 - gsmtp<EOL>
+21/05/30 15:46:21 >> DATA<EOL>
+21/05/30 15:46:21 << 354  Go ahead t1sm712517wrx.28 - gsmtp<EOL>
+21/05/30 15:46:21 >> Date: Sun, 30 May 2021 15:46:21 +0500<EOL>
+21/05/30 15:46:21 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 15:46:21 >> Subject: Email Activation<EOL>
+21/05/30 15:46:21 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 15:46:21 >> <EOL>
+21/05/30 15:46:21 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 15:46:21 >>                                 http://localhost/phpcrud/registration.php?token=5c46880318ecb8bf79b162a34c5401  <EOL>
+21/05/30 15:46:21 >> .<EOL>
+21/05/30 15:46:22 << 250 2.0.0 OK  1622371583 t1sm712517wrx.28 - gsmtp<EOL>
+21/05/30 15:46:22 >> QUIT<EOL>
+21/05/30 15:46:22 << 221 2.0.0 closing connection t1sm712517wrx.28 - gsmtp<EOL>
+21/05/30 15:46:22 ** Disconnected.
+21/05/30 15:46:22 ** Disconnected.
+21/05/30 15:46:22 ** Disconnected.
+21/05/30 20:12:05 ** --- MESSAGE BEGIN ---
+21/05/30 20:12:05 ** To: bushirasheed2000@gmail.com
+21/05/30 20:12:05 ** Subject: Email Activation
+21/05/30 20:12:05 ** From: irecyclerz123@gmail.com
+21/05/30 20:12:05 ** 
+21/05/30 20:12:05 ** Hi, Bushra. Click here to activate your account
+21/05/30 20:12:05 **                                     http://localhost/phpcrud/registration.php?token=de8195b80004bab991cf4013f3000a  
+21/05/30 20:12:05 ** --- MESSAGE END ---
+21/05/30 20:12:05 ** Connecting to smtp.gmail.com:587
+21/05/30 20:12:05 ** Connected.
+21/05/30 20:12:05 << 220 smtp.gmail.com ESMTP a3sm5247002wra.4 - gsmtp<EOL>
+21/05/30 20:12:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:12:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:12:05 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 20:12:05 >> STARTTLS<EOL>
+21/05/30 20:12:05 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 20:12:06 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:12:06 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:12:06 >> AUTH LOGIN<EOL>
+21/05/30 20:12:06 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 20:12:06 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 20:12:06 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 20:12:06 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 20:12:06 << 235 2.7.0 Accepted<EOL>
+21/05/30 20:12:06 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 20:12:07 << 250 2.1.0 OK a3sm5247002wra.4 - gsmtp<EOL>
+21/05/30 20:12:07 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 20:12:07 << 250 2.1.5 OK a3sm5247002wra.4 - gsmtp<EOL>
+21/05/30 20:12:07 >> DATA<EOL>
+21/05/30 20:12:07 << 354  Go ahead a3sm5247002wra.4 - gsmtp<EOL>
+21/05/30 20:12:07 >> Date: Sun, 30 May 2021 20:12:07 +0500<EOL>
+21/05/30 20:12:07 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 20:12:07 >> Subject: Email Activation<EOL>
+21/05/30 20:12:07 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 20:12:07 >> <EOL>
+21/05/30 20:12:07 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 20:12:07 >>                                     http://localhost/phpcrud/registration.php?token=de8195b80004bab991cf4013f3000a  <EOL>
+21/05/30 20:12:07 >> .<EOL>
+21/05/30 20:12:08 << 250 2.0.0 OK  1622387529 a3sm5247002wra.4 - gsmtp<EOL>
+21/05/30 20:12:08 >> QUIT<EOL>
+21/05/30 20:12:08 << 221 2.0.0 closing connection a3sm5247002wra.4 - gsmtp<EOL>
+21/05/30 20:12:08 ** Disconnecting from smtp.gmail.com:587
+21/05/30 20:12:08 ** Disconnected.
+21/05/30 20:12:08 ** Disconnected.
+21/05/30 20:29:54 ** --- MESSAGE BEGIN ---
+21/05/30 20:29:54 ** To: bushirasheed2000@gmail.com
+21/05/30 20:29:54 ** Subject: Email Activation
+21/05/30 20:29:54 ** From: irecyclerz123@gmail.com
+21/05/30 20:29:54 ** 
+21/05/30 20:29:54 ** Hi, Bushra. Click here to activate your account
+21/05/30 20:29:54 **                                     http://localhost/phpcrud/registration.php?token=abc78a6e5738ca899e36ce107b043e  
+21/05/30 20:29:54 ** --- MESSAGE END ---
+21/05/30 20:29:54 ** Connecting to smtp.gmail.com:587
+21/05/30 20:29:54 ** Connected.
+21/05/30 20:29:54 << 220 smtp.gmail.com ESMTP n12sm1068353wrs.19 - gsmtp<EOL>
+21/05/30 20:29:54 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:29:54 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:29:54 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 20:29:54 >> STARTTLS<EOL>
+21/05/30 20:29:55 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 20:29:55 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:29:55 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:29:55 >> AUTH LOGIN<EOL>
+21/05/30 20:29:55 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 20:29:55 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 20:29:55 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 20:29:55 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 20:29:55 << 235 2.7.0 Accepted<EOL>
+21/05/30 20:29:55 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 20:29:56 << 250 2.1.0 OK n12sm1068353wrs.19 - gsmtp<EOL>
+21/05/30 20:29:56 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 20:29:56 << 250 2.1.5 OK n12sm1068353wrs.19 - gsmtp<EOL>
+21/05/30 20:29:56 >> DATA<EOL>
+21/05/30 20:29:56 << 354  Go ahead n12sm1068353wrs.19 - gsmtp<EOL>
+21/05/30 20:29:56 >> Date: Sun, 30 May 2021 20:29:56 +0500<EOL>
+21/05/30 20:29:56 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 20:29:56 >> Subject: Email Activation<EOL>
+21/05/30 20:29:56 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 20:29:56 >> <EOL>
+21/05/30 20:29:56 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 20:29:56 >>                                     http://localhost/phpcrud/registration.php?token=abc78a6e5738ca899e36ce107b043e  <EOL>
+21/05/30 20:29:56 >> .<EOL>
+21/05/30 20:29:57 << 250 2.0.0 OK  1622388598 n12sm1068353wrs.19 - gsmtp<EOL>
+21/05/30 20:29:57 >> QUIT<EOL>
+21/05/30 20:29:57 << 221 2.0.0 closing connection n12sm1068353wrs.19 - gsmtp<EOL>
+21/05/30 20:29:57 ** Disconnected.
+21/05/30 20:29:57 ** Disconnected.
+21/05/30 20:29:57 ** Disconnected.
+21/05/30 20:36:15 ** --- MESSAGE BEGIN ---
+21/05/30 20:36:15 ** To: bushirasheed2000@gmail.com
+21/05/30 20:36:15 ** Subject: Email Activation
+21/05/30 20:36:15 ** From: irecyclerz123@gmail.com
+21/05/30 20:36:15 ** 
+21/05/30 20:36:15 ** Hi, Bushra. Click here to activate your account
+21/05/30 20:36:15 **                                     http://localhost/phpcrud/registration.php?token=fc8d3912ec9214237b3175deabc307  
+21/05/30 20:36:15 ** --- MESSAGE END ---
+21/05/30 20:36:15 ** Connecting to smtp.gmail.com:587
+21/05/30 20:36:16 ** Connected.
+21/05/30 20:36:16 << 220 smtp.gmail.com ESMTP m11sm11554726wmq.33 - gsmtp<EOL>
+21/05/30 20:36:16 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:36:16 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:36:16 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 20:36:16 >> STARTTLS<EOL>
+21/05/30 20:36:16 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 20:36:16 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:36:16 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:36:16 >> AUTH LOGIN<EOL>
+21/05/30 20:36:16 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 20:36:16 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 20:36:16 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 20:36:16 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 20:36:17 << 235 2.7.0 Accepted<EOL>
+21/05/30 20:36:17 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 20:36:17 << 250 2.1.0 OK m11sm11554726wmq.33 - gsmtp<EOL>
+21/05/30 20:36:17 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 20:36:17 << 250 2.1.5 OK m11sm11554726wmq.33 - gsmtp<EOL>
+21/05/30 20:36:17 >> DATA<EOL>
+21/05/30 20:36:17 << 354  Go ahead m11sm11554726wmq.33 - gsmtp<EOL>
+21/05/30 20:36:17 >> Date: Sun, 30 May 2021 20:36:17 +0500<EOL>
+21/05/30 20:36:17 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 20:36:17 >> Subject: Email Activation<EOL>
+21/05/30 20:36:17 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 20:36:17 >> <EOL>
+21/05/30 20:36:17 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 20:36:17 >>                                     http://localhost/phpcrud/registration.php?token=fc8d3912ec9214237b3175deabc307  <EOL>
+21/05/30 20:36:17 >> .<EOL>
+21/05/30 20:36:18 << 250 2.0.0 OK  1622388979 m11sm11554726wmq.33 - gsmtp<EOL>
+21/05/30 20:36:18 >> QUIT<EOL>
+21/05/30 20:36:18 << 221 2.0.0 closing connection m11sm11554726wmq.33 - gsmtp<EOL>
+21/05/30 20:36:18 ** Disconnecting from smtp.gmail.com:587
+21/05/30 20:36:18 ** Disconnected.
+21/05/30 20:36:18 ** Disconnected.
+21/05/30 20:44:29 ** --- MESSAGE BEGIN ---
+21/05/30 20:44:29 ** To: bushirasheed2000@gmail.com
+21/05/30 20:44:29 ** Subject: Email Activation
+21/05/30 20:44:30 ** From: irecyclerz123@gmail.com
+21/05/30 20:44:30 ** 
+21/05/30 20:44:30 ** Hi, Bushra. Click here to activate your account
+21/05/30 20:44:30 **                                     http://localhost/phpcrud/registration.php?token=d227161a78bad33df588b07bb51964  
+21/05/30 20:44:30 ** --- MESSAGE END ---
+21/05/30 20:44:30 ** Connecting to smtp.gmail.com:587
+21/05/30 20:44:30 ** Connected.
+21/05/30 20:44:30 << 220 smtp.gmail.com ESMTP y20sm23334886wmi.0 - gsmtp<EOL>
+21/05/30 20:44:30 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:44:30 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:44:30 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 20:44:30 >> STARTTLS<EOL>
+21/05/30 20:44:30 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 20:44:31 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 20:44:31 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 20:44:31 >> AUTH LOGIN<EOL>
+21/05/30 20:44:31 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 20:44:31 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 20:44:31 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 20:44:31 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 20:44:31 << 235 2.7.0 Accepted<EOL>
+21/05/30 20:44:31 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 20:44:32 << 250 2.1.0 OK y20sm23334886wmi.0 - gsmtp<EOL>
+21/05/30 20:44:32 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 20:44:32 << 250 2.1.5 OK y20sm23334886wmi.0 - gsmtp<EOL>
+21/05/30 20:44:32 >> DATA<EOL>
+21/05/30 20:44:32 << 354  Go ahead y20sm23334886wmi.0 - gsmtp<EOL>
+21/05/30 20:44:32 >> Date: Sun, 30 May 2021 20:44:32 +0500<EOL>
+21/05/30 20:44:32 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 20:44:32 >> Subject: Email Activation<EOL>
+21/05/30 20:44:32 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 20:44:32 >> <EOL>
+21/05/30 20:44:32 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 20:44:32 >>                                     http://localhost/phpcrud/registration.php?token=d227161a78bad33df588b07bb51964  <EOL>
+21/05/30 20:44:32 >> .<EOL>
+21/05/30 20:44:33 << 250 2.0.0 OK  1622389474 y20sm23334886wmi.0 - gsmtp<EOL>
+21/05/30 20:44:33 >> QUIT<EOL>
+21/05/30 20:44:33 << 221 2.0.0 closing connection y20sm23334886wmi.0 - gsmtp<EOL>
+21/05/30 20:44:33 ** Disconnected.
+21/05/30 20:44:33 ** Disconnected.
+21/05/30 20:44:33 ** Disconnected.
+21/05/30 21:43:59 ** --- MESSAGE BEGIN ---
+21/05/30 21:43:59 ** To: bushirasheed2000@gmail.com
+21/05/30 21:43:59 ** Subject: 
+21/05/30 21:43:59 ** 
+21/05/30 21:43:59 ** 
+21/05/30 21:43:59 ** --- MESSAGE END ---
+21/05/30 21:44:00 ** Connecting to smtp.gmail.com:587
+21/05/30 21:44:00 ** Connected.
+21/05/30 21:44:00 << 220 smtp.gmail.com ESMTP h15sm12689906wmq.1 - gsmtp<EOL>
+21/05/30 21:44:00 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 21:44:00 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 21:44:00 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 21:44:00 >> STARTTLS<EOL>
+21/05/30 21:44:01 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 21:44:01 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 21:44:01 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 21:44:01 >> AUTH LOGIN<EOL>
+21/05/30 21:44:01 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 21:44:01 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 21:44:01 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 21:44:01 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 21:44:02 << 235 2.7.0 Accepted<EOL>
+21/05/30 21:44:02 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 21:44:02 << 250 2.1.0 OK h15sm12689906wmq.1 - gsmtp<EOL>
+21/05/30 21:44:02 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 21:44:02 << 250 2.1.5 OK h15sm12689906wmq.1 - gsmtp<EOL>
+21/05/30 21:44:02 >> DATA<EOL>
+21/05/30 21:44:02 << 354  Go ahead h15sm12689906wmq.1 - gsmtp<EOL>
+21/05/30 21:44:02 >> Date: Sun, 30 May 2021 21:44:02 +0500<EOL>
+21/05/30 21:44:02 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 21:44:02 >> Subject: <EOL>
+21/05/30 21:44:02 >> <EOL>
+21/05/30 21:44:02 >> <EOL>
+21/05/30 21:44:02 >> .<EOL>
+21/05/30 21:44:03 << 250 2.0.0 OK  1622393043 h15sm12689906wmq.1 - gsmtp<EOL>
+21/05/30 21:44:03 >> QUIT<EOL>
+21/05/30 21:44:03 << 221 2.0.0 closing connection h15sm12689906wmq.1 - gsmtp<EOL>
+21/05/30 21:44:03 ** Disconnecting from smtp.gmail.com:587
+21/05/30 21:44:03 ** Disconnected.
+21/05/30 21:44:03 ** Disconnected.
+21/05/30 21:48:03 ** --- MESSAGE BEGIN ---
+21/05/30 21:48:03 ** To: bushirasheed2000@gmail.com
+21/05/30 21:48:03 ** Subject: Email Activation
+21/05/30 21:48:03 ** From: irecyclerz123@gmail.com
+21/05/30 21:48:03 ** 
+21/05/30 21:48:03 ** Hi, Bushra. Click here to activate your account
+21/05/30 21:48:03 **                                     http://localhost/phpcrud/registration.php?token=a93db1b7631321832448ed4bf60a6e  
+21/05/30 21:48:04 ** --- MESSAGE END ---
+21/05/30 21:48:04 ** Connecting to smtp.gmail.com:587
+21/05/30 21:48:04 ** Connected.
+21/05/30 21:48:04 << 220 smtp.gmail.com ESMTP a1sm7031588wrg.92 - gsmtp<EOL>
+21/05/30 21:48:04 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 21:48:04 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 21:48:04 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 21:48:04 >> STARTTLS<EOL>
+21/05/30 21:48:05 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 21:48:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 21:48:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 21:48:05 >> AUTH LOGIN<EOL>
+21/05/30 21:48:05 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 21:48:05 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 21:48:06 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 21:48:06 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 21:48:06 << 235 2.7.0 Accepted<EOL>
+21/05/30 21:48:06 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 21:48:06 << 250 2.1.0 OK a1sm7031588wrg.92 - gsmtp<EOL>
+21/05/30 21:48:06 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 21:48:06 << 250 2.1.5 OK a1sm7031588wrg.92 - gsmtp<EOL>
+21/05/30 21:48:06 >> DATA<EOL>
+21/05/30 21:48:06 << 354  Go ahead a1sm7031588wrg.92 - gsmtp<EOL>
+21/05/30 21:48:06 >> Date: Sun, 30 May 2021 21:48:06 +0500<EOL>
+21/05/30 21:48:06 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 21:48:06 >> Subject: Email Activation<EOL>
+21/05/30 21:48:06 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 21:48:06 >> <EOL>
+21/05/30 21:48:06 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 21:48:06 >>                                     http://localhost/phpcrud/registration.php?token=a93db1b7631321832448ed4bf60a6e  <EOL>
+21/05/30 21:48:06 >> .<EOL>
+21/05/30 21:48:07 << 250 2.0.0 OK  1622393287 a1sm7031588wrg.92 - gsmtp<EOL>
+21/05/30 21:48:07 >> QUIT<EOL>
+21/05/30 21:48:07 << 221 2.0.0 closing connection a1sm7031588wrg.92 - gsmtp<EOL>
+21/05/30 21:48:07 ** Disconnected.
+21/05/30 21:48:07 ** Disconnected.
+21/05/30 21:48:07 ** Disconnected.
+21/05/30 23:28:05 ** --- MESSAGE BEGIN ---
+21/05/30 23:28:05 ** To: irecyclerz123@gmail.com
+21/05/30 23:28:05 ** Subject: Simple Email Test via PHPshi
+21/05/30 23:28:05 ** From: rashbush01@gmail.com
+21/05/30 23:28:05 ** 
+21/05/30 23:28:05 ** Hi, This is test email send by PHP Script
+21/05/30 23:28:05 ** --- MESSAGE END ---
+21/05/30 23:28:06 ** Connecting to smtp.gmail.com:587
+21/05/30 23:28:06 ** Connected.
+21/05/30 23:28:06 << 220 smtp.gmail.com ESMTP e17sm2794263wre.79 - gsmtp<EOL>
+21/05/30 23:28:06 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 23:28:07 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 23:28:07 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 23:28:07 >> STARTTLS<EOL>
+21/05/30 23:28:07 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 23:28:07 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 23:28:07 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 23:28:07 >> AUTH LOGIN<EOL>
+21/05/30 23:28:07 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 23:28:07 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 23:28:08 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 23:28:08 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 23:28:08 << 235 2.7.0 Accepted<EOL>
+21/05/30 23:28:08 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 23:28:08 << 250 2.1.0 OK e17sm2794263wre.79 - gsmtp<EOL>
+21/05/30 23:28:08 >> RCPT TO: <irecyclerz123@gmail.com><EOL>
+21/05/30 23:28:08 << 250 2.1.5 OK e17sm2794263wre.79 - gsmtp<EOL>
+21/05/30 23:28:08 >> DATA<EOL>
+21/05/30 23:28:09 << 354  Go ahead e17sm2794263wre.79 - gsmtp<EOL>
+21/05/30 23:28:09 >> Date: Sun, 30 May 2021 23:28:09 +0500<EOL>
+21/05/30 23:28:09 >> To: irecyclerz123@gmail.com<EOL>
+21/05/30 23:28:09 >> Subject: Simple Email Test via PHPshi<EOL>
+21/05/30 23:28:09 >> From: rashbush01@gmail.com<EOL>
+21/05/30 23:28:09 >> <EOL>
+21/05/30 23:28:09 >> Hi, This is test email send by PHP Script<EOL>
+21/05/30 23:28:09 >> .<EOL>
+21/05/30 23:28:10 << 250 2.0.0 OK  1622399290 e17sm2794263wre.79 - gsmtp<EOL>
+21/05/30 23:28:10 >> QUIT<EOL>
+21/05/30 23:28:10 << 221 2.0.0 closing connection e17sm2794263wre.79 - gsmtp<EOL>
+21/05/30 23:28:10 ** Disconnecting from smtp.gmail.com:587
+21/05/30 23:28:10 ** Disconnected.
+21/05/30 23:28:10 ** Disconnected.
+21/05/30 23:45:09 ** --- MESSAGE BEGIN ---
+21/05/30 23:45:10 ** To: bushirasheed2000@gmail.com
+21/05/30 23:45:10 ** Subject: Email Activation
+21/05/30 23:45:10 ** From: irecyclerz123@gmail.com
+21/05/30 23:45:10 ** 
+21/05/30 23:45:10 ** Hi, Bushra. Click here to activate your account
+21/05/30 23:45:10 **                                     http://localhost/phpcrud/registration.php?token=ab441b8646b4521ffeba037880e88f  
+21/05/30 23:45:10 ** --- MESSAGE END ---
+21/05/30 23:45:10 ** Connecting to smtp.gmail.com:587
+21/05/30 23:45:10 ** Connected.
+21/05/30 23:45:10 << 220 smtp.gmail.com ESMTP d17sm7476091wrg.26 - gsmtp<EOL>
+21/05/30 23:45:10 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 23:45:11 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 23:45:11 ** Authenticating as irecyclerz123@gmail.com
+21/05/30 23:45:11 >> STARTTLS<EOL>
+21/05/30 23:45:11 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/30 23:45:11 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/30 23:45:11 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/30 23:45:11 >> AUTH LOGIN<EOL>
+21/05/30 23:45:11 << 334 VXNlcm5hbWU6<EOL>
+21/05/30 23:45:11 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/30 23:45:12 << 334 UGFzc3dvcmQ6<EOL>
+21/05/30 23:45:12 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/30 23:45:12 << 235 2.7.0 Accepted<EOL>
+21/05/30 23:45:12 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/30 23:45:12 << 250 2.1.0 OK d17sm7476091wrg.26 - gsmtp<EOL>
+21/05/30 23:45:12 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/30 23:45:12 << 250 2.1.5 OK d17sm7476091wrg.26 - gsmtp<EOL>
+21/05/30 23:45:12 >> DATA<EOL>
+21/05/30 23:45:13 << 354  Go ahead d17sm7476091wrg.26 - gsmtp<EOL>
+21/05/30 23:45:13 >> Date: Sun, 30 May 2021 23:45:13 +0500<EOL>
+21/05/30 23:45:13 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/30 23:45:13 >> Subject: Email Activation<EOL>
+21/05/30 23:45:13 >> From: irecyclerz123@gmail.com<EOL>
+21/05/30 23:45:13 >> <EOL>
+21/05/30 23:45:13 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/30 23:45:13 >>                                     http://localhost/phpcrud/registration.php?token=ab441b8646b4521ffeba037880e88f  <EOL>
+21/05/30 23:45:13 >> .<EOL>
+21/05/30 23:45:14 << 250 2.0.0 OK  1622400314 d17sm7476091wrg.26 - gsmtp<EOL>
+21/05/30 23:45:14 >> QUIT<EOL>
+21/05/30 23:45:14 << 221 2.0.0 closing connection d17sm7476091wrg.26 - gsmtp<EOL>
+21/05/30 23:45:14 ** Disconnected.
+21/05/30 23:45:14 ** Disconnected.
+21/05/30 23:45:14 ** Disconnected.
+21/05/31 22:56:12 ** --- MESSAGE BEGIN ---
+21/05/31 22:56:12 ** To: bushirasheed2000@gmail.com
+21/05/31 22:56:12 ** Subject: Email Activation
+21/05/31 22:56:12 ** From: irecyclerz123@gmail.com
+21/05/31 22:56:12 ** 
+21/05/31 22:56:12 ** Hi, Minal. Click here to activate your account
+21/05/31 22:56:12 **                                     http://localhost/phpcrud/registration.php?token=4f88d0b3048d24af7d4e57b40aa6e2  
+21/05/31 22:56:12 ** --- MESSAGE END ---
+21/05/31 22:56:13 ** Connecting to smtp.gmail.com:587
+21/05/31 22:56:13 ** Connected.
+21/05/31 22:56:13 << 220 smtp.gmail.com ESMTP v7sm529272wrf.82 - gsmtp<EOL>
+21/05/31 22:56:13 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/31 22:56:14 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/31 22:56:14 ** Authenticating as irecyclerz123@gmail.com
+21/05/31 22:56:14 >> STARTTLS<EOL>
+21/05/31 22:56:14 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/31 22:56:14 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/31 22:56:14 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/31 22:56:14 >> AUTH LOGIN<EOL>
+21/05/31 22:56:14 << 334 VXNlcm5hbWU6<EOL>
+21/05/31 22:56:14 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/31 22:56:14 << 334 UGFzc3dvcmQ6<EOL>
+21/05/31 22:56:14 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/31 22:56:15 << 235 2.7.0 Accepted<EOL>
+21/05/31 22:56:15 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/31 22:56:15 << 250 2.1.0 OK v7sm529272wrf.82 - gsmtp<EOL>
+21/05/31 22:56:15 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/31 22:56:15 << 250 2.1.5 OK v7sm529272wrf.82 - gsmtp<EOL>
+21/05/31 22:56:15 >> DATA<EOL>
+21/05/31 22:56:16 << 354  Go ahead v7sm529272wrf.82 - gsmtp<EOL>
+21/05/31 22:56:16 >> Date: Mon, 31 May 2021 22:56:16 +0500<EOL>
+21/05/31 22:56:16 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/31 22:56:16 >> Subject: Email Activation<EOL>
+21/05/31 22:56:16 >> From: irecyclerz123@gmail.com<EOL>
+21/05/31 22:56:16 >> <EOL>
+21/05/31 22:56:16 >> Hi, Minal. Click here to activate your account<EOL>
+21/05/31 22:56:16 >>                                     http://localhost/phpcrud/registration.php?token=4f88d0b3048d24af7d4e57b40aa6e2  <EOL>
+21/05/31 22:56:16 >> .<EOL>
+21/05/31 22:56:17 << 250 2.0.0 OK  1622483778 v7sm529272wrf.82 - gsmtp<EOL>
+21/05/31 22:56:17 >> QUIT<EOL>
+21/05/31 22:56:17 << 221 2.0.0 closing connection v7sm529272wrf.82 - gsmtp<EOL>
+21/05/31 22:56:17 ** Disconnecting from smtp.gmail.com:587
+21/05/31 22:56:17 ** Disconnected.
+21/05/31 22:56:17 ** Disconnected.
+21/05/31 23:45:35 ** --- MESSAGE BEGIN ---
+21/05/31 23:45:35 ** To: bushirasheed2000@gmail.com
+21/05/31 23:45:35 ** Subject: Email Activation
+21/05/31 23:45:35 ** From: irecyclerz123@gmail.com
+21/05/31 23:45:35 ** 
+21/05/31 23:45:35 ** Hi, Bushra. Click here to activate your account
+21/05/31 23:45:35 **                                     http://localhost/phpcrud/registration.php?token=8b8e614c83f93afa5fe00138e58fa6  
+21/05/31 23:45:35 ** --- MESSAGE END ---
+21/05/31 23:45:36 ** Connecting to smtp.gmail.com:587
+21/05/31 23:45:36 ** Connected.
+21/05/31 23:45:36 << 220 smtp.gmail.com ESMTP o6sm577813wre.73 - gsmtp<EOL>
+21/05/31 23:45:36 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/31 23:45:36 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/31 23:45:36 ** Authenticating as irecyclerz123@gmail.com
+21/05/31 23:45:36 >> STARTTLS<EOL>
+21/05/31 23:45:36 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/31 23:45:37 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/31 23:45:37 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/31 23:45:37 >> AUTH LOGIN<EOL>
+21/05/31 23:45:37 << 334 VXNlcm5hbWU6<EOL>
+21/05/31 23:45:37 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/31 23:45:37 << 334 UGFzc3dvcmQ6<EOL>
+21/05/31 23:45:37 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/31 23:45:38 << 235 2.7.0 Accepted<EOL>
+21/05/31 23:45:38 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/31 23:45:38 << 250 2.1.0 OK o6sm577813wre.73 - gsmtp<EOL>
+21/05/31 23:45:38 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/31 23:45:38 << 250 2.1.5 OK o6sm577813wre.73 - gsmtp<EOL>
+21/05/31 23:45:38 >> DATA<EOL>
+21/05/31 23:45:39 << 354  Go ahead o6sm577813wre.73 - gsmtp<EOL>
+21/05/31 23:45:39 >> Date: Mon, 31 May 2021 23:45:39 +0500<EOL>
+21/05/31 23:45:39 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/31 23:45:39 >> Subject: Email Activation<EOL>
+21/05/31 23:45:39 >> From: irecyclerz123@gmail.com<EOL>
+21/05/31 23:45:39 >> <EOL>
+21/05/31 23:45:39 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/31 23:45:39 >>                                     http://localhost/phpcrud/registration.php?token=8b8e614c83f93afa5fe00138e58fa6  <EOL>
+21/05/31 23:45:39 >> .<EOL>
+21/05/31 23:45:40 << 250 2.0.0 OK  1622486740 o6sm577813wre.73 - gsmtp<EOL>
+21/05/31 23:45:40 >> QUIT<EOL>
+21/05/31 23:45:40 << 221 2.0.0 closing connection o6sm577813wre.73 - gsmtp<EOL>
+21/05/31 23:45:40 ** Disconnecting from smtp.gmail.com:587
+21/05/31 23:45:40 ** Disconnected.
+21/05/31 23:45:40 ** Disconnected.
+21/05/31 23:48:04 ** --- MESSAGE BEGIN ---
+21/05/31 23:48:04 ** To: bushirasheed2000@gmail.com
+21/05/31 23:48:04 ** Subject: Email Activation
+21/05/31 23:48:04 ** From: irecyclerz123@gmail.com
+21/05/31 23:48:04 ** 
+21/05/31 23:48:04 ** Hi, Bushra. Click here to activate your account
+21/05/31 23:48:04 **                                     http://localhost/phpcrud/registration.php?token=52e5abc70fc6cfae35decd526b0812  
+21/05/31 23:48:04 ** --- MESSAGE END ---
+21/05/31 23:48:04 ** Connecting to smtp.gmail.com:587
+21/05/31 23:48:05 ** Connected.
+21/05/31 23:48:05 << 220 smtp.gmail.com ESMTP v7sm683691wrf.82 - gsmtp<EOL>
+21/05/31 23:48:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/31 23:48:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/31 23:48:05 ** Authenticating as irecyclerz123@gmail.com
+21/05/31 23:48:05 >> STARTTLS<EOL>
+21/05/31 23:48:05 << 220 2.0.0 Ready to start TLS<EOL>
+21/05/31 23:48:05 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/05/31 23:48:05 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/05/31 23:48:05 >> AUTH LOGIN<EOL>
+21/05/31 23:48:06 << 334 VXNlcm5hbWU6<EOL>
+21/05/31 23:48:06 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/05/31 23:48:06 << 334 UGFzc3dvcmQ6<EOL>
+21/05/31 23:48:06 >> cmVjeWMxMjNsZXJ6<EOL>
+21/05/31 23:48:06 << 235 2.7.0 Accepted<EOL>
+21/05/31 23:48:06 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/05/31 23:48:06 << 250 2.1.0 OK v7sm683691wrf.82 - gsmtp<EOL>
+21/05/31 23:48:06 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/05/31 23:48:07 << 250 2.1.5 OK v7sm683691wrf.82 - gsmtp<EOL>
+21/05/31 23:48:07 >> DATA<EOL>
+21/05/31 23:48:07 << 354  Go ahead v7sm683691wrf.82 - gsmtp<EOL>
+21/05/31 23:48:07 >> Date: Mon, 31 May 2021 23:48:07 +0500<EOL>
+21/05/31 23:48:07 >> To: bushirasheed2000@gmail.com<EOL>
+21/05/31 23:48:07 >> Subject: Email Activation<EOL>
+21/05/31 23:48:07 >> From: irecyclerz123@gmail.com<EOL>
+21/05/31 23:48:07 >> <EOL>
+21/05/31 23:48:07 >> Hi, Bushra. Click here to activate your account<EOL>
+21/05/31 23:48:07 >>                                     http://localhost/phpcrud/registration.php?token=52e5abc70fc6cfae35decd526b0812  <EOL>
+21/05/31 23:48:07 >> .<EOL>
+21/05/31 23:48:08 << 250 2.0.0 OK  1622486888 v7sm683691wrf.82 - gsmtp<EOL>
+21/05/31 23:48:08 >> QUIT<EOL>
+21/05/31 23:48:08 << 221 2.0.0 closing connection v7sm683691wrf.82 - gsmtp<EOL>
+21/05/31 23:48:08 ** Disconnected.
+21/05/31 23:48:08 ** Disconnected.
+21/05/31 23:48:08 ** Disconnected.
+21/06/02 19:50:19 ** --- MESSAGE BEGIN ---
+21/06/02 19:50:19 ** To: rashbush01@gmail.com
+21/06/02 19:50:19 ** Subject: Password Reset
+21/06/02 19:50:19 ** From: irecyclerz123@gmail.com
+21/06/02 19:50:19 ** 
+21/06/02 19:50:19 ** Hi, Bushra. Click here to reset your password
+21/06/02 19:50:19 **                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  
+21/06/02 19:50:19 ** --- MESSAGE END ---
+21/06/02 19:50:20 ** Connecting to smtp.gmail.com:587
+21/06/02 19:50:20 ** Connected.
+21/06/02 19:50:20 << 220 smtp.gmail.com ESMTP c12sm202807wrr.90 - gsmtp<EOL>
+21/06/02 19:50:20 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 19:50:21 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 19:50:21 ** Authenticating as irecyclerz123@gmail.com
+21/06/02 19:50:21 >> STARTTLS<EOL>
+21/06/02 19:50:21 << 220 2.0.0 Ready to start TLS<EOL>
+21/06/02 19:50:21 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 19:50:21 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 19:50:21 >> AUTH LOGIN<EOL>
+21/06/02 19:50:22 << 334 VXNlcm5hbWU6<EOL>
+21/06/02 19:50:22 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/06/02 19:50:22 << 334 UGFzc3dvcmQ6<EOL>
+21/06/02 19:50:22 >> cmVjeWMxMjNsZXJ6<EOL>
+21/06/02 19:50:22 << 235 2.7.0 Accepted<EOL>
+21/06/02 19:50:22 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/06/02 19:50:22 << 250 2.1.0 OK c12sm202807wrr.90 - gsmtp<EOL>
+21/06/02 19:50:22 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/06/02 19:50:23 << 250 2.1.5 OK c12sm202807wrr.90 - gsmtp<EOL>
+21/06/02 19:50:23 >> DATA<EOL>
+21/06/02 19:50:23 << 354  Go ahead c12sm202807wrr.90 - gsmtp<EOL>
+21/06/02 19:50:23 >> Date: Wed, 2 Jun 2021 19:50:23 +0500<EOL>
+21/06/02 19:50:23 >> To: rashbush01@gmail.com<EOL>
+21/06/02 19:50:23 >> Subject: Password Reset<EOL>
+21/06/02 19:50:23 >> From: irecyclerz123@gmail.com<EOL>
+21/06/02 19:50:23 >> <EOL>
+21/06/02 19:50:23 >> Hi, Bushra. Click here to reset your password<EOL>
+21/06/02 19:50:23 >>                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  <EOL>
+21/06/02 19:50:23 >> .<EOL>
+21/06/02 19:50:25 << 250 2.0.0 OK  1622645425 c12sm202807wrr.90 - gsmtp<EOL>
+21/06/02 19:50:25 >> QUIT<EOL>
+21/06/02 19:50:25 << 221 2.0.0 closing connection c12sm202807wrr.90 - gsmtp<EOL>
+21/06/02 19:50:25 ** Disconnected.
+21/06/02 19:50:25 ** Disconnected.
+21/06/02 19:50:25 ** Disconnected.
+21/06/02 20:34:50 ** --- MESSAGE BEGIN ---
+21/06/02 20:34:50 ** To: rashbush01@gmail.com
+21/06/02 20:34:50 ** Subject: Password Reset
+21/06/02 20:34:50 ** From: irecyclerz123@gmail.com
+21/06/02 20:34:50 ** 
+21/06/02 20:34:51 ** Hi, Bushra. Click here to reset your password
+21/06/02 20:34:51 **                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  
+21/06/02 20:34:51 ** --- MESSAGE END ---
+21/06/02 20:34:51 ** Connecting to smtp.gmail.com:587
+21/06/02 20:34:51 ** Connected.
+21/06/02 20:34:51 << 220 smtp.gmail.com ESMTP h46sm420428wrh.44 - gsmtp<EOL>
+21/06/02 20:34:51 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 20:34:51 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 20:34:51 ** Authenticating as irecyclerz123@gmail.com
+21/06/02 20:34:51 >> STARTTLS<EOL>
+21/06/02 20:34:52 << 220 2.0.0 Ready to start TLS<EOL>
+21/06/02 20:34:52 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 20:34:52 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 20:34:52 >> AUTH LOGIN<EOL>
+21/06/02 20:34:52 << 334 VXNlcm5hbWU6<EOL>
+21/06/02 20:34:52 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/06/02 20:34:52 << 334 UGFzc3dvcmQ6<EOL>
+21/06/02 20:34:52 >> cmVjeWMxMjNsZXJ6<EOL>
+21/06/02 20:34:53 << 235 2.7.0 Accepted<EOL>
+21/06/02 20:34:53 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/06/02 20:34:53 << 250 2.1.0 OK h46sm420428wrh.44 - gsmtp<EOL>
+21/06/02 20:34:53 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/06/02 20:34:53 << 250 2.1.5 OK h46sm420428wrh.44 - gsmtp<EOL>
+21/06/02 20:34:53 >> DATA<EOL>
+21/06/02 20:34:54 << 354  Go ahead h46sm420428wrh.44 - gsmtp<EOL>
+21/06/02 20:34:54 >> Date: Wed, 2 Jun 2021 20:34:54 +0500<EOL>
+21/06/02 20:34:54 >> To: rashbush01@gmail.com<EOL>
+21/06/02 20:34:54 >> Subject: Password Reset<EOL>
+21/06/02 20:34:54 >> From: irecyclerz123@gmail.com<EOL>
+21/06/02 20:34:54 >> <EOL>
+21/06/02 20:34:54 >> Hi, Bushra. Click here to reset your password<EOL>
+21/06/02 20:34:54 >>                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  <EOL>
+21/06/02 20:34:54 >> .<EOL>
+21/06/02 20:34:55 << 250 2.0.0 OK  1622648095 h46sm420428wrh.44 - gsmtp<EOL>
+21/06/02 20:34:55 >> QUIT<EOL>
+21/06/02 20:34:56 << 221 2.0.0 closing connection h46sm420428wrh.44 - gsmtp<EOL>
+21/06/02 20:34:56 ** Disconnecting from smtp.gmail.com:587
+21/06/02 20:34:56 ** Disconnected.
+21/06/02 20:34:56 ** Disconnected.
+21/06/02 20:45:48 ** --- MESSAGE BEGIN ---
+21/06/02 20:45:48 ** To: rashbush01@gmail.com
+21/06/02 20:45:48 ** Subject: Password Reset
+21/06/02 20:45:48 ** From: irecyclerz123@gmail.com
+21/06/02 20:45:48 ** 
+21/06/02 20:45:48 ** Hi, Bushra. Click here to reset your password
+21/06/02 20:45:48 **                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  
+21/06/02 20:45:48 ** --- MESSAGE END ---
+21/06/02 20:45:48 ** Connecting to smtp.gmail.com:587
+21/06/02 20:45:49 ** Connected.
+21/06/02 20:45:49 << 220 smtp.gmail.com ESMTP v10sm403536wre.33 - gsmtp<EOL>
+21/06/02 20:45:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 20:45:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 20:45:49 ** Authenticating as irecyclerz123@gmail.com
+21/06/02 20:45:49 >> STARTTLS<EOL>
+21/06/02 20:45:49 << 220 2.0.0 Ready to start TLS<EOL>
+21/06/02 20:45:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 20:45:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 20:45:49 >> AUTH LOGIN<EOL>
+21/06/02 20:45:50 << 334 VXNlcm5hbWU6<EOL>
+21/06/02 20:45:50 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/06/02 20:45:50 << 334 UGFzc3dvcmQ6<EOL>
+21/06/02 20:45:50 >> cmVjeWMxMjNsZXJ6<EOL>
+21/06/02 20:45:50 << 235 2.7.0 Accepted<EOL>
+21/06/02 20:45:50 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/06/02 20:45:50 << 250 2.1.0 OK v10sm403536wre.33 - gsmtp<EOL>
+21/06/02 20:45:50 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/06/02 20:45:50 << 250 2.1.5 OK v10sm403536wre.33 - gsmtp<EOL>
+21/06/02 20:45:50 >> DATA<EOL>
+21/06/02 20:45:51 << 354  Go ahead v10sm403536wre.33 - gsmtp<EOL>
+21/06/02 20:45:51 >> Date: Wed, 2 Jun 2021 20:45:51 +0500<EOL>
+21/06/02 20:45:51 >> To: rashbush01@gmail.com<EOL>
+21/06/02 20:45:51 >> Subject: Password Reset<EOL>
+21/06/02 20:45:51 >> From: irecyclerz123@gmail.com<EOL>
+21/06/02 20:45:51 >> <EOL>
+21/06/02 20:45:51 >> Hi, Bushra. Click here to reset your password<EOL>
+21/06/02 20:45:51 >>                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  <EOL>
+21/06/02 20:45:51 >> .<EOL>
+21/06/02 20:45:52 << 250 2.0.0 OK  1622648751 v10sm403536wre.33 - gsmtp<EOL>
+21/06/02 20:45:52 >> QUIT<EOL>
+21/06/02 20:45:52 << 221 2.0.0 closing connection v10sm403536wre.33 - gsmtp<EOL>
+21/06/02 20:45:52 ** Disconnecting from smtp.gmail.com:587
+21/06/02 20:45:52 ** Disconnected.
+21/06/02 20:45:52 ** Disconnected.
+21/06/02 21:07:58 ** --- MESSAGE BEGIN ---
+21/06/02 21:07:58 ** To: bushirasheed2000@gmail.com
+21/06/02 21:07:58 ** Subject: Email Activation
+21/06/02 21:07:58 ** From: irecyclerz123@gmail.com
+21/06/02 21:07:58 ** 
+21/06/02 21:07:58 ** Hi, Bushra. Click here to activate your account
+21/06/02 21:07:58 **                                     http://localhost/phpcrud/registration.php?token=84990df39d7fd961e2346cae298db0  
+21/06/02 21:07:58 ** --- MESSAGE END ---
+21/06/02 21:07:58 ** Connecting to smtp.gmail.com:587
+21/06/02 21:07:59 ** Connected.
+21/06/02 21:07:59 << 220 smtp.gmail.com ESMTP f18sm174446wmj.13 - gsmtp<EOL>
+21/06/02 21:07:59 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 21:07:59 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 21:07:59 ** Authenticating as irecyclerz123@gmail.com
+21/06/02 21:07:59 >> STARTTLS<EOL>
+21/06/02 21:07:59 << 220 2.0.0 Ready to start TLS<EOL>
+21/06/02 21:07:59 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 21:07:59 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 21:07:59 >> AUTH LOGIN<EOL>
+21/06/02 21:07:59 << 334 VXNlcm5hbWU6<EOL>
+21/06/02 21:07:59 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/06/02 21:08:00 << 334 UGFzc3dvcmQ6<EOL>
+21/06/02 21:08:00 >> cmVjeWMxMjNsZXJ6<EOL>
+21/06/02 21:08:00 << 235 2.7.0 Accepted<EOL>
+21/06/02 21:08:00 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/06/02 21:08:00 << 250 2.1.0 OK f18sm174446wmj.13 - gsmtp<EOL>
+21/06/02 21:08:00 >> RCPT TO: <bushirasheed2000@gmail.com><EOL>
+21/06/02 21:08:00 << 250 2.1.5 OK f18sm174446wmj.13 - gsmtp<EOL>
+21/06/02 21:08:00 >> DATA<EOL>
+21/06/02 21:08:01 << 354  Go ahead f18sm174446wmj.13 - gsmtp<EOL>
+21/06/02 21:08:01 >> Date: Wed, 2 Jun 2021 21:08:01 +0500<EOL>
+21/06/02 21:08:01 >> To: bushirasheed2000@gmail.com<EOL>
+21/06/02 21:08:01 >> Subject: Email Activation<EOL>
+21/06/02 21:08:01 >> From: irecyclerz123@gmail.com<EOL>
+21/06/02 21:08:01 >> <EOL>
+21/06/02 21:08:01 >> Hi, Bushra. Click here to activate your account<EOL>
+21/06/02 21:08:01 >>                                     http://localhost/phpcrud/registration.php?token=84990df39d7fd961e2346cae298db0  <EOL>
+21/06/02 21:08:01 >> .<EOL>
+21/06/02 21:08:03 << 250 2.0.0 OK  1622650083 f18sm174446wmj.13 - gsmtp<EOL>
+21/06/02 21:08:03 >> QUIT<EOL>
+21/06/02 21:08:03 << 221 2.0.0 closing connection f18sm174446wmj.13 - gsmtp<EOL>
+21/06/02 21:08:03 ** Disconnecting from smtp.gmail.com:587
+21/06/02 21:08:03 ** Disconnected.
+21/06/02 21:08:03 ** Disconnected.
+21/06/02 22:08:48 ** --- MESSAGE BEGIN ---
+21/06/02 22:08:48 ** To: rashbush01@gmail.com
+21/06/02 22:08:48 ** Subject: Password Reset
+21/06/02 22:08:48 ** From: irecyclerz123@gmail.com
+21/06/02 22:08:48 ** 
+21/06/02 22:08:48 ** Hi, Bushra. Click here to reset your password
+21/06/02 22:08:48 **                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  
+21/06/02 22:08:48 ** --- MESSAGE END ---
+21/06/02 22:08:48 ** Connecting to smtp.gmail.com:587
+21/06/02 22:08:49 ** Connected.
+21/06/02 22:08:49 << 220 smtp.gmail.com ESMTP b62sm278861wmh.47 - gsmtp<EOL>
+21/06/02 22:08:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 22:08:49 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 22:08:49 ** Authenticating as irecyclerz123@gmail.com
+21/06/02 22:08:49 >> STARTTLS<EOL>
+21/06/02 22:08:49 << 220 2.0.0 Ready to start TLS<EOL>
+21/06/02 22:08:49 >> EHLO DESKTOP-PTFL9E1<EOL>
+21/06/02 22:08:50 << 250-smtp.gmail.com at your service, [103.244.174.218]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+21/06/02 22:08:50 >> AUTH LOGIN<EOL>
+21/06/02 22:08:50 << 334 VXNlcm5hbWU6<EOL>
+21/06/02 22:08:50 >> aXJlY3ljbGVyejEyM0BnbWFpbC5jb20=<EOL>
+21/06/02 22:08:50 << 334 UGFzc3dvcmQ6<EOL>
+21/06/02 22:08:50 >> cmVjeWMxMjNsZXJ6<EOL>
+21/06/02 22:08:50 << 235 2.7.0 Accepted<EOL>
+21/06/02 22:08:50 >> MAIL FROM: <irecyclerz123@gmail.com><EOL>
+21/06/02 22:08:50 << 250 2.1.0 OK b62sm278861wmh.47 - gsmtp<EOL>
+21/06/02 22:08:50 >> RCPT TO: <rashbush01@gmail.com><EOL>
+21/06/02 22:08:51 << 250 2.1.5 OK b62sm278861wmh.47 - gsmtp<EOL>
+21/06/02 22:08:51 >> DATA<EOL>
+21/06/02 22:08:51 << 354  Go ahead b62sm278861wmh.47 - gsmtp<EOL>
+21/06/02 22:08:51 >> Date: Wed, 2 Jun 2021 22:08:51 +0500<EOL>
+21/06/02 22:08:51 >> To: rashbush01@gmail.com<EOL>
+21/06/02 22:08:51 >> Subject: Password Reset<EOL>
+21/06/02 22:08:51 >> From: irecyclerz123@gmail.com<EOL>
+21/06/02 22:08:51 >> <EOL>
+21/06/02 22:08:51 >> Hi, Bushra. Click here to reset your password<EOL>
+21/06/02 22:08:51 >>                                     http://localhost/phpcrud/reset_password.php?token=8cff337dbe20e9c37152f1b5ed8d36  <EOL>
+21/06/02 22:08:51 >> .<EOL>
+21/06/02 22:08:52 << 250 2.0.0 OK  1622653732 b62sm278861wmh.47 - gsmtp<EOL>
+21/06/02 22:08:52 >> QUIT<EOL>
+21/06/02 22:08:52 << 221 2.0.0 closing connection b62sm278861wmh.47 - gsmtp<EOL>
+21/06/02 22:08:52 ** Disconnecting from smtp.gmail.com:587
+21/06/02 22:08:52 ** Disconnected.
+21/06/02 22:08:52 ** Disconnected.

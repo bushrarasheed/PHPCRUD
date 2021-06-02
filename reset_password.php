@@ -124,6 +124,7 @@ $conn= mysqli_connect("localhost","root","buskaroo786","phpcrud");
           
              <div class="form-group ">
                 <button type="submit" class="btn btn-info btn-block" name="submit">Update Password</button>
+                 <button type="submit" class="btn btn-info btn-block" name="submit">Update Password</button>
                 </div>  <br>
           </form>
        </article>
